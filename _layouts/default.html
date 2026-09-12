@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title | default: "资源导航" }}</title>
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    {% endif %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container header-container">
+            <div class="site-title">🚀 资源导航与教程中心</div>
+            <nav class="site-nav">
+                <a href="{{ '/' | relative_url }}" class="nav-link">🏠 首页</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container main-content">
+        {{ content }}
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; {{ site.time | date: '%Y' }} 网络工具与教程导航. 持续维护中。</p>
+        </div>
+    </footer>
+</body>
+</html>
