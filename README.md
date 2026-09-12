@@ -29,7 +29,6 @@
 
 如果发现链接失效、资料过时或有任何报错，可以通过以下方式反馈：
 
-- 🌐 机场湾：[https://jichangbay.com/](https://jichangbay.com/)
 - 📧 Email：colasaiko15@gmail.com
 - 💬 Telegram：@ColaSaiko15
 - 🧑‍💻 GitHub：[https://github.com/Colasaiko](https://github.com/Colasaiko)
