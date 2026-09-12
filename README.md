@@ -50,6 +50,12 @@
 - [影音娱乐与流媒体解锁](https://vpn-clash.net/topics/streaming)
 
 ## 🛡️ 新手指南
+- **[VPN / Clash 新手完整入门教程](https://colasaiko.github.io/NewbieRead/)**
+- [网络代理工具、节点与线路基础](https://colasaiko.github.io/NewbieRead/01-%E6%96%B0%E6%89%8B%E5%BC%80%E5%A4%B4.html)
+- [线路介绍：直连、中转与专线](https://colasaiko.github.io/NewbieRead/03-%E8%B7%AF%E7%BA%BF%E4%BB%8B%E7%BB%8D.html)
+- [IP 基础介绍：原生与住宅 IP](https://colasaiko.github.io/NewbieRead/04-IP%E4%BB%8B%E7%BB%8D.html)
+- [新手选择总结](https://colasaiko.github.io/NewbieRead/05-%E6%96%B0%E6%89%8B%E6%80%BB%E7%BB%93.html)
+- [新手常见 FAQ 大总结](https://colasaiko.github.io/NewbieRead/06-FAQ%E5%92%8C%E5%A4%A7%E6%80%BB%E7%BB%93.html)
 - [翻墙新手入门](https://clashwiki.blog/guides/)
 - [什么是机场？](https://jichangmao.com/blog/what-is-airport-proxy/)
 - [什么是节点？](https://jichangmao.com/blog/what-is-node/)
@@ -73,6 +79,7 @@
 | [机场猫](https://jichangmao.com) | 机场性价比对比、全平台客户端图文配置教程及网络原理科普 |
 | [Best 机场](https://bestjichang.com) | 主流代理客户端横向评测、精品机场（Sogo、幕光等）测评与体验 |
 | [机场湾 JichangBay](https://jichangbay.com/) | 2026机场推荐、套餐价格、流量、线路、优惠与品牌选购导航 |
+| [NewbieRead 新手教程](https://colasaiko.github.io/NewbieRead/) | VPN、Clash、节点、线路、IP 与客户端基础入门教程 |
 | [Runa iNav](https://runainav.com) | 🚧 即将上线 |
 
 ---
