@@ -8,6 +8,57 @@
     <meta name="description" content="{{ page.description }}">
     {% endif %}
     <link rel="stylesheet" href="/tuijianjichang/assets/css/style-v2.css">
+    <style>
+        /* Keep navbar geometry identical across pages and prevent label wrapping. */
+        .navbar-inner {
+            flex-wrap: nowrap;
+            min-height: 62px;
+        }
+        .nav-brand {
+            flex: 0 0 auto;
+            min-width: max-content;
+        }
+        .brand-title,
+        .brand-subtitle,
+        .nav-item {
+            white-space: nowrap;
+        }
+        .nav-links {
+            flex: 1 1 auto;
+            min-width: 0;
+            flex-wrap: nowrap;
+            white-space: nowrap;
+            overflow-x: auto;
+            overflow-y: hidden;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+        .nav-links::-webkit-scrollbar {
+            display: none;
+        }
+        .nav-item {
+            flex: 0 0 auto;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 36px;
+            line-height: 1.2;
+        }
+        @media (max-width: 768px) {
+            .navbar-inner {
+                min-height: 0;
+            }
+            .nav-brand {
+                width: 100%;
+                min-width: 0;
+            }
+            .nav-links {
+                display: flex;
+                width: 100%;
+                flex-wrap: nowrap;
+            }
+        }
+    </style>
 </head>
 <body>
     <header class="navbar-wrapper">
