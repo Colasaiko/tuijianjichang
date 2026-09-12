@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
     {% if page.description %}
     <meta name="description" content="{{ page.description }}">
     {% endif %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="/tuijianjichang/assets/css/style.css">
 </head>
 <body>
     <header class="navbar-wrapper">
@@ -20,13 +20,13 @@
                 </div>
             </div>
             <nav class="nav-links">
-                <a href="{{ '/' | relative_url }}" class="nav-item {% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">🏠 首页</a>
-                <a href="{{ '/airport.html' | relative_url }}" class="nav-item {% if page.url == '/airport.html' %}active{% endif %}">✈️ 机场推荐</a>
-                <a href="{{ '/clash.html' | relative_url }}" class="nav-item {% if page.url == '/clash.html' %}active{% endif %}">🧩 Clash 教程</a>
+                <a href="/tuijianjichang/" class="nav-item {% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">🏠 首页</a>
+                <a href="/tuijianjichang/airport.html" class="nav-item {% if page.url == '/airport.html' %}active{% endif %}">✈️ 机场推荐</a>
+                <a href="/tuijianjichang/clash.html" class="nav-item {% if page.url == '/clash.html' %}active{% endif %}">🧩 Clash 教程</a>
                 <a href="https://colasaiko.github.io/Clash-/" class="nav-item nav-special">⚡ Clash Guide</a>
-                <a href="{{ '/clients.html' | relative_url }}" class="nav-item {% if page.url == '/clients.html' %}active{% endif %}">💻 客户端</a>
-                <a href="{{ '/newbie.html' | relative_url }}" class="nav-item {% if page.url == '/newbie.html' %}active{% endif %}">🛡️ 新手指南</a>
-                <a href="{{ '/resources.html' | relative_url }}" class="nav-item {% if page.url == '/resources.html' %}active{% endif %}">🌐 资源库</a>
+                <a href="/tuijianjichang/clients.html" class="nav-item {% if page.url == '/clients.html' %}active{% endif %}">💻 客户端</a>
+                <a href="/tuijianjichang/newbie.html" class="nav-item {% if page.url == '/newbie.html' %}active{% endif %}">🛡️ 新手指南</a>
+                <a href="/tuijianjichang/resources.html" class="nav-item {% if page.url == '/resources.html' %}active{% endif %}">🌐 资源库</a>
             </nav>
         </div>
     </header>
