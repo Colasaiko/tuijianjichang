@@ -22,6 +22,13 @@
 - [幕光 评测](https://bestjichang.com/blog/review-04-muguang/)
 
 ## 🧩 Clash 教程
+- **[Clash 新手配置与节点选择完整教程](https://colasaiko.github.io/Clash-/)**
+  *(从 Clash 基础配置、订阅导入，到节点延迟、丢包、速度、稳定性测试以及 URL-Test、Fallback 等自动选择方式。)*
+- [Clash 基础配置](https://colasaiko.github.io/Clash-/01-Clash%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE.html)
+- [节点质量判断](https://colasaiko.github.io/Clash-/02-%E8%8A%82%E7%82%B9%E8%B4%A8%E9%87%8F%E5%88%A4%E6%96%AD.html)
+- [实际测试节点](https://colasaiko.github.io/Clash-/03-%E5%AE%9E%E9%99%85%E6%B5%8B%E8%AF%95%E8%8A%82%E7%82%B9.html)
+- [新手常见误区](https://colasaiko.github.io/Clash-/04-%E6%96%B0%E6%89%8B%E5%B8%B8%E8%A7%81%E8%AF%AF%E5%8C%BA.html)
+- [推荐工具](https://colasaiko.github.io/Clash-/05-%E6%8E%A8%E8%8D%90%E5%B7%A5%E5%85%B7.html)
 - [Clash 系列教程](https://clashwiki.blog/tag/clash/)
 - [Loon客户端基础进阶教程 | Clash配置](https://jichangmao.com/blog/ios-loon-guide/)
 - [Quantumult进阶教程 | Clash配置](https://jichangmao.com/blog/ios-quantumultx-guide/)
@@ -87,6 +94,7 @@
 | [Best 机场](https://bestjichang.com) | 主流代理客户端横向评测、精品机场（Sogo、幕光等）测评与体验 |
 | [机场湾 JichangBay](https://jichangbay.com/) | 2026机场推荐、套餐价格、流量、线路、优惠与品牌选购导航 |
 | [NewbieRead 新手教程](https://colasaiko.github.io/NewbieRead/) | VPN、Clash、节点、线路、IP 与客户端基础入门教程 |
+| [Clash Guide](https://colasaiko.github.io/Clash-/) | Clash 配置、节点测试、网络质量判断与进阶使用教程。 |
 | [Runa iNav](https://runainav.com) | 🚧 即将上线 |
 
 ---
