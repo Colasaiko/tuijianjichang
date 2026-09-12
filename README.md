@@ -8,6 +8,7 @@
 
 ## ✈️ 机场推荐
 - [2026 机场推荐](https://clashwiki.blog/topics/airport-recommendation/)
+- [2026 机场套餐选购与价格对比](https://jichangbay.com/)
 - [如何挑选机场节点](https://jichangmao.com/blog/how-to-choose-an-airport-guide/)
 - [为什么说低价服务商越省越血亏？](https://vpn-clash.net/cost-guide)
 
@@ -71,6 +72,7 @@
 | [VPN Clash](https://vpn-clash.net) | 深度网络加速场景分析（流媒体、外贸、AI）及 20 家服务商避坑横评 |
 | [机场猫](https://jichangmao.com) | 机场性价比对比、全平台客户端图文配置教程及网络原理科普 |
 | [Best 机场](https://bestjichang.com) | 主流代理客户端横向评测、精品机场（Sogo、幕光等）测评与体验 |
+| [机场湾 JichangBay](https://jichangbay.com/) | 2026机场推荐、套餐价格、流量、线路、优惠与品牌选购导航 |
 | [Runa iNav](https://runainav.com) | 🚧 即将上线 |
 
 ---
@@ -78,4 +80,18 @@
 # 📌 关于本项目
 
 本 Repository 作为多站点内容的统一入口，致力于系统化整合机场、Clash、VPN、代理客户端、网络加速等相关领域的学习资料。
+本项目由 [Colasaiko](https://github.com/Colasaiko) 持续维护。
 随着各博客的文章更新，本项目也会持续收录更多实用教程，方便用户精准检索所需信息。
+
+---
+
+# 📬 联系与纠错
+
+如果发现链接失效、资料需要更新或内容存在错误，可以通过以下方式反馈：
+
+- 🌐 机场湾：https://jichangbay.com/
+- 📧 Email：colasaiko15@gmail.com
+- 💬 Telegram：@ColaSaiko15
+- 🧑‍💻 GitHub：https://github.com/Colasaiko
+
+如果问题与本 Repository 本身有关，也可以通过 GitHub Issues 提交反馈。
