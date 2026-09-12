@@ -7,12 +7,18 @@
     {% if page.description %}
     <meta name="description" content="{{ page.description }}">
     {% endif %}
-    <link rel="stylesheet" href="/tuijianjichang/assets/css/style-v2.css">
+    <link rel="stylesheet" href="/tuijianjichang/assets/css/style-v2.css?v=20260912-2">
     <style>
-        /* Keep navbar geometry identical across pages and prevent label wrapping. */
+        /* Navbar geometry is intentionally fixed so page changes never resize it. */
+        .navbar-wrapper {
+            width: calc(100% - 32px);
+        }
         .navbar-inner {
             flex-wrap: nowrap;
-            min-height: 62px;
+            height: 64px;
+            min-height: 64px;
+            max-height: 64px;
+            overflow: hidden;
         }
         .nav-brand {
             flex: 0 0 auto;
@@ -36,25 +42,41 @@
         .nav-links::-webkit-scrollbar {
             display: none;
         }
-        .nav-item {
+        .nav-item,
+        .nav-item.active,
+        .nav-special {
             flex: 0 0 auto;
             display: inline-flex;
             align-items: center;
             justify-content: center;
+            height: 36px;
             min-height: 36px;
+            max-height: 36px;
             line-height: 1.2;
+            font-weight: 500;
         }
         @media (max-width: 768px) {
+            .navbar-wrapper {
+                width: calc(100% - 20px);
+            }
             .navbar-inner {
-                min-height: 0;
+                height: 108px;
+                min-height: 108px;
+                max-height: 108px;
+                flex-direction: column;
+                align-items: flex-start;
+                justify-content: flex-start;
+                overflow: hidden;
             }
             .nav-brand {
                 width: 100%;
                 min-width: 0;
+                flex: 0 0 36px;
             }
             .nav-links {
                 display: flex;
                 width: 100%;
+                flex: 0 0 40px;
                 flex-wrap: nowrap;
             }
         }
