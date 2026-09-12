@@ -1,3 +1,8 @@
+---
+layout: default
+title: 2026机场推荐 & Clash / VPN 资源导航
+description: 系统化整理机场推荐、机场评测、Clash、VPN、代理客户端、网络加速以及相关使用教程资源。
+---
 # 🌐 2026机场推荐 & Clash / VPN 资源导航
 
 这个 Repository 用于系统化整理机场推荐、机场评测、Clash、VPN、代理客户端、网络加速以及相关使用教程。通过统一的内容索引，帮助用户快速找到不同主题的实用文章。
