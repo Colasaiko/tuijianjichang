@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 机场推荐、节点线路与套餐选购指南
 description: 2026 最新机场推荐，套餐选购建议，机场评测，节点与线路对比。
@@ -37,4 +37,4 @@ description: 2026 最新机场推荐，套餐选购建议，机场评测，节�
   *主要内容：幕光机场的流媒体解锁与延迟表现。*
 
 ---
-[🏠 返回首页](./) | [👉 查看 Clash 教程](./clash.html) | [👉 查看新手指南](./newbie.html)
+[🏠 返回首页](./) | [⚡ Clash Guide](https://colasaiko.github.io/Clash-/) | [👉 查看新手指南](./newbie.html)
