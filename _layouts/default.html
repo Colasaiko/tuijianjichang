@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -10,22 +10,28 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-    <header class="navbar">
-        <div class="container nav-container">
-            <div class="nav-brand">🌐 资源导航门户</div>
+    <header class="navbar-wrapper">
+        <div class="navbar-inner">
+            <div class="nav-brand">
+                <div class="brand-icon">🚀</div>
+                <div class="brand-text">
+                    <span class="brand-title">资源导航与教程中心</span>
+                    <span class="brand-subtitle">Clash · VPN · 教程 · 资源</span>
+                </div>
+            </div>
             <nav class="nav-links">
-                <a href="{{ '/' | relative_url }}">🏠 首页</a>
-                <a href="{{ '/airport.html' | relative_url }}">✈️ 机场推荐</a>
-                <a href="{{ '/clash.html' | relative_url }}">🧩 Clash 教程</a>
-                <a href="https://colasaiko.github.io/Clash-/" target="_blank">⚡ Clash Guide</a>
-                <a href="{{ '/clients.html' | relative_url }}">💻 客户端</a>
-                <a href="{{ '/newbie.html' | relative_url }}">🛡️ 新手指南</a>
-                <a href="{{ '/resources.html' | relative_url }}">🌐 资源库</a>
+                <a href="{{ '/' | relative_url }}" class="nav-item {% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">🏠 首页</a>
+                <a href="{{ '/airport.html' | relative_url }}" class="nav-item {% if page.url == '/airport.html' %}active{% endif %}">✈️ 机场推荐</a>
+                <a href="{{ '/clash.html' | relative_url }}" class="nav-item {% if page.url == '/clash.html' %}active{% endif %}">🧩 Clash 教程</a>
+                <a href="https://colasaiko.github.io/Clash-/" class="nav-item nav-special">⚡ Clash Guide</a>
+                <a href="{{ '/clients.html' | relative_url }}" class="nav-item {% if page.url == '/clients.html' %}active{% endif %}">💻 客户端</a>
+                <a href="{{ '/newbie.html' | relative_url }}" class="nav-item {% if page.url == '/newbie.html' %}active{% endif %}">🛡️ 新手指南</a>
+                <a href="{{ '/resources.html' | relative_url }}" class="nav-item {% if page.url == '/resources.html' %}active{% endif %}">🌐 资源库</a>
             </nav>
         </div>
     </header>
 
-    <main class="container article-container">
+    <main class="container main-content">
         {{ content }}
     </main>
 
