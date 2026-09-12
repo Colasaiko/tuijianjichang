@@ -2,6 +2,8 @@
 
 这个 Repository 用于系统化整理机场推荐、机场评测、Clash、VPN、代理客户端、网络加速以及相关使用教程。通过统一的内容索引，帮助用户快速找到不同主题的实用文章。
 
+<img src="./assets/images/tuijianjichang-hero.jpg" alt="机场推荐 Clash VPN 网络资源导航" style="max-width: 100%; border-radius: 8px; margin: 16px 0;" />
+
 ---
 
 # 📚 内容导航
@@ -50,6 +52,9 @@
 - [影音娱乐与流媒体解锁](https://vpn-clash.net/topics/streaming)
 
 ## 🛡️ 新手指南
+
+<img src="./assets/images/tuijianjichang-guide.jpg" alt="VPN Clash 新手教程学习指南" style="max-width: 100%; border-radius: 8px; margin: 16px 0;" />
+
 - **[VPN / Clash 新手完整入门教程](https://colasaiko.github.io/NewbieRead/)**
 - [网络代理工具、节点与线路基础](https://colasaiko.github.io/NewbieRead/01-%E6%96%B0%E6%89%8B%E5%BC%80%E5%A4%B4.html)
 - [线路介绍：直连、中转与专线](https://colasaiko.github.io/NewbieRead/03-%E8%B7%AF%E7%BA%BF%E4%BB%8B%E7%BB%8D.html)
@@ -68,6 +73,8 @@
 ---
 
 # 🌐 博客网络
+
+<img src="./assets/images/tuijianjichang-network.jpg" alt="机场 VPN Clash 博客与教程资源网络" style="max-width: 100%; border-radius: 8px; margin: 16px 0;" />
 
 本指南的内容索引主要来源于以下持续维护的优质站点：
 
