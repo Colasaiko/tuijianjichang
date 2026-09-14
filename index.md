@@ -16,7 +16,7 @@ description: 系统化整理机场推荐、机场评测、Clash、VPN、代理�
 <div class="category-cards">
   <div class="card">
     <h3>✈️ <a href="./airport.html">机场推荐与选购</a></h3>
-    <p>2026 最新性价比机场排名、节点挑选防坑指南与各服务商深度测速评测。</p>
+    <p>2026 最新性价比机场排名、节点挑选防坑指南与各服务商套餐、线路、节点与使用场景对比。</p>
     <a href="./airport.html" class="btn">进入专区 →</a>
   </div>
   
@@ -40,10 +40,17 @@ description: 系统化整理机场推荐、机场评测、Clash、VPN、代理�
 
   <div class="card">
     <h3>🌐 <a href="./resources.html">博客与学习资源库</a></h3>
-    <p>聚合全网优秀的网络技术博客生态矩阵，并收录 AI 与流媒体流媒体解锁场景。</p>
+    <p>聚合全网优秀的网络技术博客生态矩阵，并收录 AI 与流媒体解锁场景。</p>
     <a href="./resources.html" class="btn">进入专区 →</a>
   </div>
 </div>
+
+
+## 📘 机场知识指南
+
+- [机场怎么选：2026线路、流量与套餐选择指南](/tuijianjichang/how-to-choose-airport.html)
+- [IPLC和IEPL区别：机场专线线路怎么选](/tuijianjichang/iplc-iepl-guide.html)
+- [机场流量怎么选：100GB、300GB、500GB够用吗](/tuijianjichang/airport-traffic-guide.html)
 
 ---
 
