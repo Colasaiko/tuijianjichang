@@ -36,4 +36,4 @@ description: 深入讲解 Clash 代理工具的基础配置、节点测试、URL
   *主要内容：Mac/iOS 顶级网络工具 Surge 的快速上手。*
 
 ---
-[🏠 返回首页](./) | [👉 查看客户端指南](./clients.html) | [👉 新手不知道节点是什么？去看看新手指南](./newbie.html)
+[🏠 返回首页](./) | [👉 查看客户端指南](./clients.html) | [👉 新手不知道节点是什么？去看看新手指南](https://colasaiko.github.io/NewbieRead/)

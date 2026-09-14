@@ -57,4 +57,4 @@ description: 持续维护的博客网络与学习资源库，囊括 AI、流媒�
   - [Runa iNav](https://runainav.com) *(🚧 即将上线)*
 
 ---
-[🏠 返回首页](./) | [👉 查看机场推荐](./airport.html) | [👉 查看新手指南](./newbie.html)
+[🏠 返回首页](./) | [👉 查看机场推荐](./airport.html) | [👉 查看新手指南](https://colasaiko.github.io/NewbieRead/)

@@ -21,9 +21,9 @@ description: 系统化整理机场推荐、机场评测、Clash、VPN、代理�
   </div>
   
   <div class="card">
-    <h3>🧩 <a href="./clash.html">Clash 教程中心</a></h3>
-    <p>原版 Clash 与 Mihomo 内核的系统级配置教程。包含节点质量分析与高阶分流。</p>
-    <a href="./clash.html" class="btn">进入专区 →</a>
+    <h3>🧩 <a href="https://colasaiko.github.io/Clash-/">Clash Guide</a></h3>
+    <p>Clash 配置、节点质量判断、URL-Test、Fallback 与常见误区完整教程。</p>
+    <a href="https://colasaiko.github.io/Clash-/" class="btn">进入 Clash Guide →</a>
   </div>
 
   <div class="card">
@@ -33,9 +33,9 @@ description: 系统化整理机场推荐、机场评测、Clash、VPN、代理�
   </div>
 
   <div class="card">
-    <h3>🛡️ <a href="./newbie.html">新手指南手册</a></h3>
-    <p>面向零基础新人的纯科普：什么是节点、线路、IP 和订阅？如何进行基础排障？</p>
-    <a href="./newbie.html" class="btn">进入专区 →</a>
+    <h3>🛡️ <a href="https://colasaiko.github.io/NewbieRead/">新手指南</a></h3>
+    <p>面向零基础用户的 VPN、节点、线路、IP、订阅与常见问题入门教程。</p>
+    <a href="https://colasaiko.github.io/NewbieRead/" class="btn">开始学习 →</a>
   </div>
 
   <div class="card">
@@ -47,4 +47,4 @@ description: 系统化整理机场推荐、机场评测、Clash、VPN、代理�
 
 ---
 
-> 💡 **快速推荐**：如果你是第一次来到这里，并且对以上名词感到陌生，请直接前往 **[🛡️ 新手指南手册](./newbie.html)** 开始你的网络学习之旅。
+> 💡 **快速推荐**：如果你是第一次来到这里，并且对以上名词感到陌生，请直接前往 **[🛡️ 新手指南手册](https://colasaiko.github.io/NewbieRead/)** 开始你的网络学习之旅。
