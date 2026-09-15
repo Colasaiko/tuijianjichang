@@ -158,7 +158,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 飞猫云
 
-**👉 [前往 飞猫云 官网注册](https://dfg12cd.feimaogfttt1.sbs/#/?code=UUcH5yh9)**
+**👉 [前往 飞猫云 官网注册](https://flycat1.flycatvipaff.cc/#/?code=UUcH5yh9)**
 
 **🎁 专属优惠：** `(暂无优惠）`
 
@@ -191,7 +191,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 灵猫
 
-**👉 [前往 灵猫 官网注册](https://downwww.civetnettttt.lol/#/?code=2Ai6V6Ub)**
+**👉 [前往 灵猫 官网注册](https://vip02.civetaff.com/#/?code=2Ai6V6Ub)**
 
 **🎁 专属优惠：** `lingmao（8折）`
 
@@ -223,7 +223,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 无忧链接
 
-**👉 [前往 无忧链接 官网注册](https://letter.worryfreettt.homes/#/?code=ydtFVWqU)**
+**👉 [前往 无忧链接 官网注册](https://wep01.worryfreeaff.com/#/?code=ydtFVWqU)**
 
 **🎁 专属优惠：** `(暂无优惠）`
 
@@ -250,7 +250,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 跨界云
 
-**👉 [前往 跨界云 官网注册](https://kasoasf.kuajiecloudtttt.mom/#/?code=HRzqSLrR)**
+**👉 [前往 跨界云 官网注册](https://vip02.kuajieaff.com/#/?code=HRzqSLrR)**
 
 **🎁 专属优惠：** `kuajie（8 折）`
 
@@ -280,7 +280,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### firefly
 
-**👉 [前往 firefly 官网注册](https://fly.fireflytttt.xyz/#/?code=mcYQUZxG)**
+**👉 [前往 firefly 官网注册](https://vip02.fireflyaff.com/#/?code=mcYQUZxG)**
 
 **🎁 专属优惠：** `firefly (8折)`
 
@@ -308,7 +308,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 闪跃
 
-**👉 [前往 闪跃 官网注册](https://rfv.flashleapxx.xyz/#/?code=hCwClNUi)**
+**👉 [前往 闪跃 官网注册](https://vip02.flashleapaff.com/#/?code=hCwClNUi)**
 
 **🎁 专属优惠：** `shanyue（8折）`
 
@@ -335,7 +335,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 一翻云
 
-**👉 [前往 一翻云 官网注册](https://bbn3uyoiu.1fyohnzt.xyz/#/?code=e61goYLt)**
+**👉 [前往 一翻云 官网注册](https://wzjc.1flyunaff.cc/#/?code=e61goYLt)**
 
 **🎁 专属优惠：** `(暂无优惠）`
 
@@ -347,7 +347,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - 适配自研客户端，轻松一键快速连接
 - 覆盖港/台/新/日/美等 60+ 优质全球节点
 
-**💻 客户端下载：** [前往官网下载](https://bbn3uyoiu.1fyohnzt.xyz/#/?code=e61goYLt)（注册后可在官网内下载）
+**💻 客户端下载：** [前往官网下载](https://wzjc.1flyunaff.cc/#/?code=e61goYLt)（注册后可在官网内下载）
 
 **💰 套餐价格参考：**
 
@@ -366,7 +366,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 光速云
 
-**👉 [前往 光速云 官网注册](https://v5g.gggoltt.xyz/#/?code=GKfXFvJh)**
+**👉 [前往 光速云 官网注册](https://mdlky.gsyaff.com/#/?code=GKfXFvJh)**
 
 **🎁 专属优惠：** `(暂无优惠）`
 
@@ -417,7 +417,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 飞V
 
-**👉 [前往 飞V 官网注册](https://asfawsf.flyvastt.lol/#/?code=6ae5FH9i)**
+**👉 [前往 飞V 官网注册](https://varnexa.flyvaff.com/#/?code=6ae5FH9i)**
 
 **🎁 专属优惠：** `fly20（8折)`
 
@@ -430,7 +430,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - 开发者之选：ChatGPT 4 / GitHub Copilot / Hugging Face 完整支持，低延迟API调用
 - 高性能协议，多国节点可选，不限制在线设备数，商务家庭优选
 
-**💻 客户端下载：** [前往官网下载](https://asfawsf.flyvastt.lol/#/?code=6ae5FH9i)（注册后可在官网内下载）
+**💻 客户端下载：** [前往官网下载](https://varnexa.flyvaff.com/#/?code=6ae5FH9i)（注册后可在官网内下载）
 
 **💰 套餐价格参考：**
 
@@ -450,7 +450,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 暮光加速
 
-**👉 [前往 暮光加速 官网注册](https://asfawsf.twilightttt.sbs/#/?code=1eGqV85O)**
+**👉 [前往 暮光加速 官网注册](https://varnexa.twilightaff.com/#/?code=1eGqV85O)**
 
 **🎁 专属优惠：** `mm88（8折）`
 
@@ -479,7 +479,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### sogo云
 
-**👉 [前往 sogo云 官网注册](https://asfdgd.sogotztz2.sbs/#/?code=JvxcPy2A)**
+**👉 [前往 sogo云 官网注册](https://wzjc.sogoyunaff.cc/#/?code=JvxcPy2A)**
 
 **🎁 专属优惠：** `(暂无优惠）`
 
@@ -501,7 +501,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - 路由策略：智能路由自动择优，稳定顺滑。
 - 长期优惠：年付 8 折｜两年付 7 折｜三年付 6 折。
 
-**💻 客户端下载：** [macOS 客户端](https://asfdgd.sogotztz2.sbs/#/?code=JvxcPy2A)
+**💻 客户端下载：** [macOS 客户端](https://wzjc.sogoyunaff.cc/#/?code=JvxcPy2A)
 
 **💰 套餐价格参考：**
 
@@ -517,7 +517,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 边缘节点
 
-**👉 [前往 边缘节点 官网注册](https://bcbhk40y.ztymforedge.lol/#/?code=FhNDD3Sa)**
+**👉 [前往 边缘节点 官网注册](https://work.edgenovaaff.cc/#/?code=etUBOp4S)**
 
 **🎁 专属优惠：** `xk808（8折）`
 
@@ -549,7 +549,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 速界机场
 
-**👉 [前往 速界机场 官网注册](https://linktest.tzztssuujj.xyz/#/?code=q1enwrOd)**
+**👉 [前往 速界机场 官网注册](https://work.speedworldaff.cc/#/?code=q1enwrOd)**
 
 **🎁 专属优惠：** `sujie888（8折)`
 
@@ -583,7 +583,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 快狸
 
-**👉 [前往 快狸 官网注册](https://iasfa.kuailitztz2.sbs/#/?code=9RhZkrkV)**
+**👉 [前往 快狸 官网注册](https://work.kuailicloud.cc/#/?code=9RhZkrkV)**
 
 **🎁 专属优惠：** `(暂无优惠）`
 
@@ -616,7 +616,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 二猫云
 
-**👉 [前往 二猫云 官网注册](https://shadow.ermaotztz3.homes/#/?code=c842udvC)**
+**👉 [前往 二猫云 官网注册](https://waaa.2maoyunaff.cc/#/?code=c842udvC)**
 
 **🎁 专属优惠：** `ermao888（85折）`
 
@@ -632,7 +632,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - 长期优惠：年付 8 折｜两年付 7 折｜三年付 6 折。
 - 节点覆盖：香港×20、台湾×5、日本×10、新加坡×10
 
-**💻 客户端下载：** [前往官网下载](https://shadow.ermaotztz3.homes/#/?code=c842udvC)（注册后可在官网内下载）
+**💻 客户端下载：** [前往官网下载](https://waaa.2maoyunaff.cc/#/?code=c842udvC)（注册后可在官网内下载）
 
 **💰 套餐价格参考：**
 
@@ -649,7 +649,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 星岛梦
 
-**👉 [前往 星岛梦 官网注册](https://jljljfois.xdmttt4.lol/#/?code=1qBePxW1)**
+**👉 [前往 星岛梦 官网注册](https://kfccbb.xingdaomeng.com/#/?code=1qBePxW1)**
 
 **🎁 专属优惠：** `nmw888（9折）`
 
@@ -682,7 +682,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 光年梯
 
-**👉 [前往 光年梯 官网注册](https://vv3dbvb.guangnianertt1.homes/#/?code=k0rrn5UQ)**
+**👉 [前往 光年梯 官网注册](https://ggmq.gntaff.com/#/?code=k0rrn5UQ)**
 
 **🎁 专属优惠：** `(暂无优惠）`
 
@@ -716,7 +716,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 极连云
 
-**👉 [前往 极连云 官网注册](https://1jdhjfeeef.jilianat.homes/#/?code=nrPTQT2i)**
+**👉 [前往 极连云 官网注册](https://kdjhao.jlyvipaff.com/#/?code=nrPTQT2i)**
 
 **🎁 专属优惠：** `JLY888（8折）`
 
@@ -750,7 +750,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 灵动云
 
-**👉 [前往 灵动云 官网注册](https://asfawsf.lingdongyunttt.homes/#/?code=TIMwZeIR)**
+**👉 [前往 灵动云 官网注册](https://varnexa.lingdongaff.com/#/?code=TIMwZeIR)**
 
 **🎁 专属优惠：** `880223（8折)`
 
@@ -763,7 +763,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - 生产力工具｜原生纯净 IP，稳定支持 ChatGPT / Claude 创作
 - 多端无阻｜SS 协议全平台一键导入，多设备同时在线无压力
 
-**💻 客户端下载：** [前往官网下载](https://asfawsf.lingdongyunttt.homes/#/?code=TIMwZeIR)（注册后可在官网内下载）
+**💻 客户端下载：** [前往官网下载](https://varnexa.lingdongaff.com/#/?code=TIMwZeIR)（注册后可在官网内下载）
 
 **💰 套餐价格参考：**
 
@@ -783,7 +783,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### U1S1
 
-**👉 [前往 U1S1 官网注册](https://hudeiuf.u1sat.my/#/?code=T1UVuVDP)**
+**👉 [前往 U1S1 官网注册](https://pkdj7.vipaff.cc/#/?code=T1UVuVDP)**
 
 **🎁 专属优惠：** `U1S1（85折）`
 
@@ -815,7 +815,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### WaveNet
 
-**👉 [前往 WaveNet 官网注册](https://asfawsf.wavenetttt.homes/#/?code=pcFhy7Lb)**
+**👉 [前往 WaveNet 官网注册](https://varnexa.wavenetaff.com/#/?code=pcFhy7Lb)**
 
 **🎁 专属优惠：** `lw888（8折)`
 
@@ -849,7 +849,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 唯兔云
 
-**👉 [前往 唯兔云 官网注册](https://jifdsf.v2saat.homes/#/?code=bGS5G7xn)**
+**👉 [前往 唯兔云 官网注册](https://fast.v2yunvipaff.com/#/?code=bGS5G7xn)**
 
 **🎁 专属优惠：** `rabbit（8折）`
 
@@ -915,7 +915,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 隐形人
 
-**👉 [前往 隐形人 官网注册](https://asfweroasf.invisiblettt.homes/#/?code=8jyAXfu3)**
+**👉 [前往 隐形人 官网注册](https://varnexa.invisibleaff.com/#/?code=8jyAXfu3)**
 
 **🎁 专属优惠：** `yxr888（8折)`
 
@@ -927,7 +927,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - 开发者之选：ChatGPT 4 / GitHub Copilot / Hugging Face 完整支持，低延迟API调用
 - 高性能协议，多国节点可选，不限制在线设备数，商务家庭优选
 
-**💻 客户端下载：** [前往官网下载](https://asfweroasf.invisiblettt.homes/#/?code=8jyAXfu3)（注册后可在官网内下载）
+**💻 客户端下载：** [前往官网下载](https://varnexa.invisibleaff.com/#/?code=8jyAXfu3)（注册后可在官网内下载）
 
 **💰 套餐价格参考：**
 
@@ -947,7 +947,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 可信云
 
-**👉 [前往 可信云 官网注册](https://asfasf.kexintztz2.sbs/#/?code=PY3isazT)**
+**👉 [前往 可信云 官网注册](https://work.kosingaff.com/#/?code=PY3isazT)**
 
 **🎁 专属优惠：** `(暂无优惠）`
 
@@ -961,7 +961,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - 不限制客户端
 - 60+顶级专线节点，覆盖港/台/新/日/美/等地区
 
-**💻 客户端下载：** [前往官网下载](https://asfasf.kexintztz2.sbs/#/?code=PY3isazT)（注册后可在官网内下载）
+**💻 客户端下载：** [前往官网下载](https://work.kosingaff.com/#/?code=PY3isazT)（注册后可在官网内下载）
 
 **💰 套餐价格参考：**
 
@@ -1003,7 +1003,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 梯子云
 
-**👉 [前往 梯子云 官网注册](https://asfawsf.ladderttt.sbs/#/?code=3vf6NG2u)**
+**👉 [前往 梯子云 官网注册](https://varnexa.ladderaff.com/#/?code=3vf6NG2u)**
 
 **🎁 专属优惠：** `tiziyun（8折)`
 
@@ -1015,7 +1015,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - 完整解锁 Netflix / YouTube /ChatGPT 等全球主流流媒体，前沿 AI 工具。
 - 采用高性能 Shadowsocks (SS) 协议架构，不限制同时在线设备数。
 
-**💻 客户端下载：** [前往官网下载](https://asfawsf.ladderttt.sbs/#/?code=3vf6NG2u)（注册后可在官网内下载）
+**💻 客户端下载：** [前往官网下载](https://varnexa.ladderaff.com/#/?code=3vf6NG2u)（注册后可在官网内下载）
 
 **💰 套餐价格参考：**
 
