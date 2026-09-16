@@ -11,7 +11,7 @@ description: 系统化整理机场推荐、机场评测、Clash、VPN、代理�
 
 ---
 
-# 📚 核心资源库入口
+## 📚 核心资源库入口
 
 <div class="category-cards">
   <div class="card">
