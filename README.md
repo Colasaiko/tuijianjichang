@@ -1,36 +1,84 @@
+﻿<div align="center">
+
+<img src="assets/images/tuijianjichang-hero.jpg" width="800" alt="Hero">
+
 # 🌐 2026机场推荐 & Clash / VPN 资源导航
 
-本项目作为一个公开的多站点内容统一入口，致力于系统化整合机场评测、Clash、VPN、代理客户端、网络加速等相关领域的学习资料。通过分类导航，帮助用户快速定位所需的教程和资源。
+**机场推荐 · Clash Guide · VPN 新手教程 · 代理客户端 · 网络知识库**
 
-**正式网站访问入口：**
-👉 [https://colasaiko.github.io/tuijianjichang/](https://colasaiko.github.io/tuijianjichang/)
+一个持续维护的网络工具、机场选购与 Clash/VPN 学习资源导航项目。
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Deploy-GitHub_Pages-blue?style=flat-square&logo=github" alt="GitHub Pages">
+  <img src="https://img.shields.io/badge/Guide-2026_Airport-orange?style=flat-square" alt="2026 Airport Guide">
+  <img src="https://img.shields.io/badge/Guide-Clash-blueviolet?style=flat-square" alt="Clash Guide">
+  <img src="https://img.shields.io/badge/Guide-VPN-success?style=flat-square" alt="VPN Guide">
+  <img src="https://img.shields.io/badge/Project-Resource-lightgrey?style=flat-square" alt="Resource Project">
+  <br>
+  <img src="https://img.shields.io/github/stars/Colasaiko/tuijianjichang?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/last-commit/Colasaiko/tuijianjichang?style=flat-square" alt="Last Commit">
+</p>
 
-## 📚 网站内容分类
+| 🌐 [正式网站](https://colasaiko.github.io/tuijianjichang/) | ✈️ [机场推荐](https://colasaiko.github.io/tuijianjichang/airport.html) | ⚡ [Clash Guide](https://colasaiko.github.io/Clash-/) | 🛡️ [新手指南](https://colasaiko.github.io/NewbieRead/) | 💻 [客户端指南](https://colasaiko.github.io/tuijianjichang/clients.html) |
+|---|---|---|---|---|
 
-本站将资源划分为以下五大核心模块，您可以访问正式网站浏览详细内容：
+</div>
 
-1. **✈️ 机场推荐与选购**：各价位机场评测、选购防坑指南。
-2. **🧩 Clash 教程中心**：基于 Clash 内核的规则、代理组及测速配置。
-3. **💻 主流代理客户端**：Win/Mac/iOS/Android 各平台翻墙软件。
-4. **🛡️ 新手指南手册**：零基础 VPN、节点、IP 科普。
-5. **🌐 博客与学习资源库**：生态博客网络聚合及特定场景（AI、流媒体）指南。
+## ✨ 项目包含什么？
 
-*(所有分类的详细教程链接及内容摘要，请访问上方正式网站查看。)*
+| 模块 | 内容 |
+|---|---|
+| ✈️ **机场推荐** | 2026机场推荐、套餐、流量、线路、节点与使用场景 |
+| ⚡ **Clash Guide** | Clash / Mihomo 配置、节点测试、URL-Test、Fallback |
+| 💻 **客户端** | Windows / macOS / iOS / Android 代理客户端 |
+| 🛡️ **新手指南** | VPN、节点、IP、线路、订阅基础 |
+| 🌐 **资源库** | Clash、VPN、AI、流媒体相关博客与教程 |
+| 📘 **网络知识** | IPLC、IEPL、流量选择、机场选购 |
 
----
+## 📘 热门指南
 
-## 📌 关于维护
+- **机场怎么选**：[https://colasaiko.github.io/tuijianjichang/how-to-choose-airport.html](https://colasaiko.github.io/tuijianjichang/how-to-choose-airport.html)
+- **IPLC 和 IEPL 有什么区别**：[https://colasaiko.github.io/tuijianjichang/iplc-iepl-guide.html](https://colasaiko.github.io/tuijianjichang/iplc-iepl-guide.html)
+- **100GB / 300GB / 500GB 流量怎么选**：[https://colasaiko.github.io/tuijianjichang/airport-traffic-guide.html](https://colasaiko.github.io/tuijianjichang/airport-traffic-guide.html)
+- **2026机场推荐排行榜**：[https://colasaiko.github.io/tuijianjichang/airport.html](https://colasaiko.github.io/tuijianjichang/airport.html)
 
-本项目由 [Colasaiko](https://github.com/Colasaiko) 持续维护。随着网络环境与各生态博客的内容更新，本项目也会持续收录更多高质量的实用教程。
+## 🗂️ 项目结构
 
-## 📬 反馈与联系
+`	ext
+tuijianjichang/
+├── index.md
+├── airport.md
+├── clients.md
+├── resources.md
+├── how-to-choose-airport.md
+├── iplc-iepl-guide.md
+├── airport-traffic-guide.md
+├── _layouts/
+├── assets/
+│   ├── css/
+│   └── images/
+├── sitemap.xml
+└── robots.txt
+`
 
-如果发现链接失效、资料过时或有任何报错，可以通过以下方式反馈：
+## 🖼️ Preview
 
-- 📧 Email：colasaiko15@gmail.com
-- 💬 Telegram：@ColaSaiko15
+<div align="center">
+  <img src="assets/images/tuijianjichang-guide.jpg" width="48%" alt="Preview 1">
+  <img src="assets/images/tuijianjichang-network.jpg" width="48%" alt="Preview 2">
+</div>
+
+## 🔗 Related Projects
+
+| Project | Description |
+|---|---|
+| [Clash Guide](https://colasaiko.github.io/Clash-/) | Clash 配置与节点测试教程 |
+| [NewbieRead](https://colasaiko.github.io/NewbieRead/) | VPN / 节点 / IP 零基础入门 |
+| [About Me](https://colasaiko.github.io/About-My-Self/) | 作者介绍 |
+
+## 👤 Maintainer
+
+**Colasaiko**
+- 📧 Email：[colasaiko15@gmail.com](mailto:colasaiko15@gmail.com)
+- 💬 Telegram：[@ColaSaiko15](https://t.me/ColaSaiko15)
 - 🧑‍💻 GitHub：[https://github.com/Colasaiko](https://github.com/Colasaiko)
-
-如果问题与本 Repository 直接相关，也欢迎通过 GitHub Issues 提交反馈。
