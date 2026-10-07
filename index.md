@@ -1,57 +1,438 @@
-﻿---
+---
 layout: default
-title: 2026机场推荐 & Clash / VPN 资源导航
-description: 系统化整理机场推荐、机场评测、Clash、VPN、代理客户端、网络加速以及相关使用教程资源。
----
-# 🌐 2026机场推荐 & Clash / VPN 资源导航
-
-欢迎来到网络加速与代理工具资源总导航。这里系统化地整合了机场评测、Clash 配置、代理客户端下载、VPN 新手教程等各领域的优质学习资料，帮助你快速定位并解决网络问题。
-
-<img src="./assets/images/tuijianjichang-hero.jpg" alt="机场推荐 Clash VPN 网络资源导航" style="max-width: 100%; border-radius: 8px; margin: 16px 0;" />
-
+title: 2026机场推荐｜品牌评测、Clash教程与网络工具
+description: 整理稳定、便宜、年付、专线等不同需求的2026机场推荐内容，提供品牌评测、Clash教程、网络工具与实用指南。
 ---
 
-## 📚 核心资源库入口
+<style>
+.home-wrapper {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #333;
+}
+.hero-section {
+  text-align: center;
+  padding: 60px 20px;
+  background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
+  border-radius: 20px;
+  margin-bottom: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.hero-section::before {
+  content: '';
+  position: absolute;
+  top: -50px;
+  left: -50px;
+  width: 200px;
+  height: 200px;
+  background: rgba(0, 122, 255, 0.1);
+  border-radius: 50%;
+  filter: blur(40px);
+}
+.hero-logo {
+  font-size: 48px;
+  font-weight: 800;
+  background: -webkit-linear-gradient(#007AFF, #00C6FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 16px;
+}
+.hero-h1 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #666;
+  margin: 0 0 24px 0;
+}
+.hero-desc {
+  font-size: 16px;
+  color: #555;
+  max-width: 600px;
+  margin: 0 auto 30px;
+  line-height: 1.6;
+}
+.search-box {
+  max-width: 500px;
+  margin: 0 auto 30px;
+  display: flex;
+  gap: 10px;
+}
+.search-input {
+  flex: 1;
+  padding: 12px 20px;
+  border: 1px solid #ddd;
+  border-radius: 24px;
+  font-size: 16px;
+  outline: none;
+  transition: all 0.3s ease;
+}
+.search-input:focus {
+  border-color: #007AFF;
+  box-shadow: 0 0 8px rgba(0, 122, 255, 0.2);
+}
+.btn-explore {
+  padding: 12px 24px;
+  background: #007AFF;
+  color: #fff;
+  border: none;
+  border-radius: 24px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: background 0.3s;
+}
+.btn-explore:hover {
+  background: #005bb5;
+  color: #fff;
+}
+.bento-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin-bottom: 60px;
+}
+.bento-card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: transform 0.3s, box-shadow 0.3s;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid #f0f0f0;
+}
+.bento-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+  border-color: #e2e8f0;
+}
+.bento-icon {
+  font-size: 32px;
+  margin-bottom: 16px;
+}
+.bento-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.bento-title span.arrow {
+  font-size: 16px;
+  color: #007AFF;
+  opacity: 0;
+  transition: opacity 0.3s, transform 0.3s;
+  transform: translateX(-10px);
+}
+.bento-card:hover .bento-title span.arrow {
+  opacity: 1;
+  transform: translateX(0);
+}
+.bento-desc {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.6;
+  flex: 1;
+}
+.section-title {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 24px;
+  position: relative;
+  display: inline-block;
+}
+.section-title::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+  width: 40px;
+  height: 4px;
+  background: #007AFF;
+  border-radius: 2px;
+}
+.brands-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 16px;
+  margin-bottom: 40px;
+}
+.brand-item {
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 16px;
+  text-align: center;
+  text-decoration: none;
+  color: #333;
+  transition: all 0.3s;
+}
+.brand-item:hover {
+  background: #f0f7ff;
+  border-color: #007AFF;
+}
+.brand-name {
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+.brand-tag {
+  font-size: 12px;
+  color: #888;
+}
+.articles-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin-bottom: 60px;
+}
+@media (max-width: 768px) {
+  .articles-layout {
+    grid-template-columns: 1fr;
+  }
+}
+.hot-large-card {
+  background: #fff;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  border: 1px solid #f0f0f0;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+}
+.hot-large-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+.hot-content {
+  padding: 24px;
+}
+.article-meta {
+  font-size: 12px;
+  color: #999;
+  margin-bottom: 8px;
+  display: flex;
+  gap: 12px;
+}
+.hot-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+.hot-desc {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.6;
+}
+.list-articles {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.list-item {
+  display: flex;
+  padding: 16px;
+  background: #fff;
+  border-radius: 12px;
+  border: 1px solid #f0f0f0;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s;
+}
+.list-item:hover {
+  transform: translateX(4px);
+  border-color: #d0e3f7;
+}
+.list-item-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.list-item-title {
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 6px;
+}
+</style>
 
-<div class="category-cards">
-  <div class="card">
-    <h3>✈️ <a href="./airport.html">机场推荐与选购</a></h3>
-    <p>2026 最新性价比机场排名、节点挑选防坑指南与各服务商套餐、线路、节点与使用场景对比。</p>
-    <a href="./airport.html" class="btn">进入专区 →</a>
-  </div>
+<div class="home-wrapper">
   
-  <div class="card">
-    <h3>🧩 <a href="https://colasaiko.github.io/Clash-/">Clash Guide</a></h3>
-    <p>Clash 配置、节点质量判断、URL-Test、Fallback 与常见误区完整教程。</p>
-    <a href="https://colasaiko.github.io/Clash-/" class="btn">进入 Clash Guide →</a>
-  </div>
+  <section class="hero-section">
+    <div class="hero-logo">网络资源门户</div>
+    <h1 class="hero-h1">2026机场推荐</h1>
+    <p class="hero-desc">整理机场品牌评测、线路信息、Clash 教程、网络工具与实用指南。探索网络加速与代理工具的世界。</p>
+    
+    <div class="search-box">
+      <input type="text" class="search-input" placeholder="搜索教程、品牌或指南...">
+      <button class="btn-explore">🔍 搜索</button>
+    </div>
+    
+    <div>
+      <a href="#explore" class="btn-explore">开始探索 ↓</a>
+    </div>
+  </section>
 
-  <div class="card">
-    <h3>💻 <a href="./clients.html">主流代理客户端</a></h3>
-    <p>Windows、macOS、iOS 与 Android 客户端软件科普：v2rayN、Clash Verge Rev、小火箭与圈X。</p>
-    <a href="./clients.html" class="btn">进入专区 →</a>
-  </div>
+  <section id="explore">
+    <h2 class="section-title">核心导航</h2>
+    <div class="bento-grid">
+      <a href="/tuijianjichang/airport.html" class="bento-card" style="grid-column: span 2; background: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%);">
+        <div class="bento-icon">✈️</div>
+        <div class="bento-title">机场推荐 <span class="arrow">→</span></div>
+        <div class="bento-desc">整理稳定、便宜、年付、专线等不同需求的机场推荐内容，帮助你快速找到适合的服务。</div>
+      </a>
+      
+      <a href="/tuijianjichang/how-to-choose-airport.html" class="bento-card">
+        <div class="bento-icon">🏆</div>
+        <div class="bento-title">机场排行榜 <span class="arrow">→</span></div>
+        <div class="bento-desc">提供不同需求下的品牌排行与选择参考。</div>
+      </a>
 
-  <div class="card">
-    <h3>🛡️ <a href="https://colasaiko.github.io/NewbieRead/">新手指南</a></h3>
-    <p>面向零基础用户的 VPN、节点、线路、IP、订阅与常见问题入门教程。</p>
-    <a href="https://colasaiko.github.io/NewbieRead/" class="btn">开始学习 →</a>
-  </div>
+      <a href="/brands/" class="bento-card">
+        <div class="bento-icon">📊</div>
+        <div class="bento-title">品牌评测 <span class="arrow">→</span></div>
+        <div class="bento-desc">查看不同机场品牌的价格、线路、节点、特点和使用体验。</div>
+      </a>
 
-  <div class="card">
-    <h3>🌐 <a href="./resources.html">博客与学习资源库</a></h3>
-    <p>聚合全网优秀的网络技术博客生态矩阵，并收录 AI 与流媒体解锁场景。</p>
-    <a href="./resources.html" class="btn">进入专区 →</a>
-  </div>
+      <a href="/tuijianjichang/iplc-iepl-guide.html" class="bento-card">
+        <div class="bento-icon">⚖️</div>
+        <div class="bento-title">品牌对比 <span class="arrow">→</span></div>
+        <div class="bento-desc">不同品牌之间进行价格、线路、适用人群等比较。</div>
+      </a>
+
+      <a href="https://colasaiko.github.io/Clash-/" class="bento-card">
+        <div class="bento-icon">🧩</div>
+        <div class="bento-title">Clash 教程 <span class="arrow">→</span></div>
+        <div class="bento-desc">Windows、Android、iOS、macOS 等客户端教程。</div>
+      </a>
+
+      <a href="https://colasaiko.github.io/NewbieRead/" class="bento-card">
+        <div class="bento-icon">🛡️</div>
+        <div class="bento-title">新手指南 <span class="arrow">→</span></div>
+        <div class="bento-desc">机场、订阅、节点、协议、使用方法等基础知识。</div>
+      </a>
+
+      <a href="/tuijianjichang/clients.html" class="bento-card">
+        <div class="bento-icon">🔧</div>
+        <div class="bento-title">故障排查 <span class="arrow">→</span></div>
+        <div class="bento-desc">节点连接失败、订阅错误、DNS、速度慢等常见问题解决。</div>
+      </a>
+
+      <a href="/tuijianjichang/resources.html" class="bento-card">
+        <div class="bento-icon">🛠️</div>
+        <div class="bento-title">网络工具 <span class="arrow">→</span></div>
+        <div class="bento-desc">IP、DNS、测速、WebRTC 等相关工具与说明。</div>
+      </a>
+
+      <a href="/tuijianjichang/resources.html#ai" class="bento-card">
+        <div class="bento-icon">🤖</div>
+        <div class="bento-title">AI 工具 <span class="arrow">→</span></div>
+        <div class="bento-desc">ChatGPT、Claude、Gemini 等 AI 工具相关内容及解锁方法。</div>
+      </a>
+      
+      <a href="/tuijianjichang/" class="bento-card" style="background: linear-gradient(135deg, #fef08a 0%, #fde047 100%);">
+        <div class="bento-icon">🔥</div>
+        <div class="bento-title">最新内容 <span class="arrow">→</span></div>
+        <div class="bento-desc">展示最近更新的文章、指南与最新的机场资讯。</div>
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <div style="display:flex; justify-content:space-between; align-items:flex-end;">
+      <h2 class="section-title">热门品牌</h2>
+      <a href="/brands/" style="text-decoration:none; color:#007AFF; margin-bottom:24px; font-weight:600;">查看全部品牌 →</a>
+    </div>
+    <div class="brands-grid">
+      <a href="/brands/69cloud" class="brand-item">
+        <div class="brand-name">69Cloud</div>
+        <div class="brand-tag">稳定流媒体</div>
+      </a>
+      <a href="/brands/weifeng" class="brand-item">
+        <div class="brand-name">微风网络</div>
+        <div class="brand-tag">性价比推荐</div>
+      </a>
+      <a href="/brands/firefly" class="brand-item">
+        <div class="brand-name">FireFly</div>
+        <div class="brand-tag">全专线节点</div>
+      </a>
+      <a href="/brands/taishan" class="brand-item">
+        <div class="brand-name">泰山网络</div>
+        <div class="brand-tag">大流量首选</div>
+      </a>
+      <a href="/brands/feiniao" class="brand-item">
+        <div class="brand-name">飞鸟</div>
+        <div class="brand-tag">轻量级入门</div>
+      </a>
+      <a href="/brands/nanocloud" class="brand-item">
+        <div class="brand-name">NanoCloud</div>
+        <div class="brand-tag">高速专线</div>
+      </a>
+      <a href="/brands/bitznet" class="brand-item">
+        <div class="brand-name">BitzNet</div>
+        <div class="brand-tag">稳定可靠</div>
+      </a>
+      <a href="/brands/u1s1" class="brand-item">
+        <div class="brand-name">U1S1</div>
+        <div class="brand-tag">高性价比</div>
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="section-title">发现内容</h2>
+    <div class="articles-layout">
+      <a href="/tuijianjichang/airport-traffic-guide.html" class="hot-large-card">
+        <img src="/tuijianjichang/assets/images/tuijianjichang-hero.jpg" alt="流量指南" onerror="this.style.display='none'">
+        <div class="hot-content">
+          <div class="article-meta">
+            <span>🔖 机场指南</span>
+            <span>📅 推荐阅读</span>
+          </div>
+          <h3 class="hot-title">机场流量怎么选：100GB、300GB、500GB够用吗？</h3>
+          <p class="hot-desc">分析不同使用场景下的流量消耗，帮助你合理选择机场套餐，避免浪费或流量焦虑，涵盖视频、游戏与日常办公场景分析。</p>
+        </div>
+      </a>
+      
+      <div class="list-articles">
+        <a href="/tuijianjichang/how-to-choose-airport.html" class="list-item">
+          <div class="list-item-content">
+            <div class="article-meta"><span>🔖 选购指南</span></div>
+            <h3 class="list-item-title">机场怎么选：2026线路、流量与套餐选择指南</h3>
+            <p class="hot-desc" style="font-size:13px; margin:0;">深度剖析机场选购要素，助你避坑。</p>
+          </div>
+        </a>
+        <a href="/tuijianjichang/iplc-iepl-guide.html" class="list-item">
+          <div class="list-item-content">
+            <div class="article-meta"><span>🔖 线路科普</span></div>
+            <h3 class="list-item-title">IPLC和IEPL区别：机场专线线路怎么选</h3>
+            <p class="hot-desc" style="font-size:13px; margin:0;">详解专线技术差异与适用场景。</p>
+          </div>
+        </a>
+        <a href="https://colasaiko.github.io/Clash-/" class="list-item">
+          <div class="list-item-content">
+            <div class="article-meta"><span>🔖 教程</span></div>
+            <h3 class="list-item-title">Clash 配置与节点质量判断指南</h3>
+            <p class="hot-desc" style="font-size:13px; margin:0;">教你如何利用测速和规则评估节点。</p>
+          </div>
+        </a>
+        <a href="/tuijianjichang/clients.html" class="list-item">
+          <div class="list-item-content">
+            <div class="article-meta"><span>🔖 客户端</span></div>
+            <h3 class="list-item-title">主流代理客户端下载与科普</h3>
+            <p class="hot-desc" style="font-size:13px; margin:0;">Windows、Mac、iOS及Android端工具介绍。</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
 </div>
-
-
-## 📘 机场知识指南
-
-- [机场怎么选：2026线路、流量与套餐选择指南](/tuijianjichang/how-to-choose-airport.html)
-- [IPLC和IEPL区别：机场专线线路怎么选](/tuijianjichang/iplc-iepl-guide.html)
-- [机场流量怎么选：100GB、300GB、500GB够用吗](/tuijianjichang/airport-traffic-guide.html)
-
----
-
-> 💡 **快速推荐**：如果你是第一次来到这里，并且对以上名词感到陌生，请直接前往 **[🛡️ 新手指南手册](https://colasaiko.github.io/NewbieRead/)** 开始你的网络学习之旅。
