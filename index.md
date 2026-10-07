@@ -352,37 +352,33 @@ description: 整理稳定、便宜、年付、专线等不同需求的2026机场
       <a href="/brands/" style="text-decoration:none; color:#007AFF; margin-bottom:24px; font-weight:600;">查看全部品牌 →</a>
     </div>
     <div class="brands-grid">
-      <a href="/brands/69cloud" class="brand-item">
-        <div class="brand-name">69Cloud</div>
-        <div class="brand-tag">稳定流媒体</div>
-      </a>
-      <a href="/brands/weifeng" class="brand-item">
+      <a href="https://edp01.breezenetaff.com/#/?code=bSnymFll" target="_blank" rel="noopener noreferrer" class="brand-item">
         <div class="brand-name">微风网络</div>
         <div class="brand-tag">性价比推荐</div>
       </a>
-      <a href="/brands/firefly" class="brand-item">
+      <a href="https://flycat1.flycatvipaff.cc/#/?code=UUcH5yh9" target="_blank" rel="noopener noreferrer" class="brand-item">
+        <div class="brand-name">飞猫云</div>
+        <div class="brand-tag">全IPLC专线</div>
+      </a>
+      <a href="https://vip02.fireflyaff.com/#/?code=mcYQUZxG" target="_blank" rel="noopener noreferrer" class="brand-item">
         <div class="brand-name">FireFly</div>
         <div class="brand-tag">全专线节点</div>
       </a>
-      <a href="/brands/taishan" class="brand-item">
-        <div class="brand-name">泰山网络</div>
-        <div class="brand-tag">大流量首选</div>
-      </a>
-      <a href="/brands/feiniao" class="brand-item">
-        <div class="brand-name">飞鸟</div>
-        <div class="brand-tag">轻量级入门</div>
-      </a>
-      <a href="/brands/nanocloud" class="brand-item">
-        <div class="brand-name">NanoCloud</div>
-        <div class="brand-tag">高速专线</div>
-      </a>
-      <a href="/brands/bitznet" class="brand-item">
-        <div class="brand-name">BitzNet</div>
+      <a href="https://wep01.worryfreeaff.com/#/?code=ydtFVWqU" target="_blank" rel="noopener noreferrer" class="brand-item">
+        <div class="brand-name">无忧链接</div>
         <div class="brand-tag">稳定可靠</div>
       </a>
-      <a href="/brands/u1s1" class="brand-item">
-        <div class="brand-name">U1S1</div>
-        <div class="brand-tag">高性价比</div>
+      <a href="https://vip02.kuajieaff.com/#/?code=HRzqSLrR" target="_blank" rel="noopener noreferrer" class="brand-item">
+        <div class="brand-name">跨界云</div>
+        <div class="brand-tag">支持流媒体与AI</div>
+      </a>
+      <a href="https://vip02.civetaff.com/#/?code=2Ai6V6Ub" target="_blank" rel="noopener noreferrer" class="brand-item">
+        <div class="brand-name">灵猫</div>
+        <div class="brand-tag">优质精选</div>
+      </a>
+      <a href="https://vip02.flashleapaff.com/#/?code=hCwClNUi" target="_blank" rel="noopener noreferrer" class="brand-item">
+        <div class="brand-name">闪跃</div>
+        <div class="brand-tag">高速畅享</div>
       </a>
     </div>
   </section>
