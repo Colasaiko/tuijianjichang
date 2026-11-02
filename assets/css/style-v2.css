@@ -819,3 +819,11 @@ img {
     .ap-page .ap-rank-table table.ap-stack td:first-child::before { content: counter(ap-row); position: static; width: 24px; }
     .ap-page table.ap-stack td code { white-space: normal; }
 }
+
+/* kramdown 会把页尾「链接 | 链接」识别成表格，这里把它还原成一排按钮 */
+.ap-footer-nav table,
+.ap-footer-nav tbody,
+.ap-footer-nav tr { display: flex; flex-wrap: wrap; gap: 10px; border: 0; background: none; box-shadow: none; overflow: visible; min-width: 0; }
+.ap-footer-nav table { margin: 0 0 1.5em; }
+.ap-footer-nav td { display: block; padding: 0; border: 0; background: none !important; }
+.ap-footer-nav td:empty { display: none; }
