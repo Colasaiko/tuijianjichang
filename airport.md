@@ -153,7 +153,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 <div class="ap-brand is-top" markdown="1">
 
-### 飞V
+### 飞V {#feiv}
 
 **👉 [前往 飞V 官网注册](https://varnexa.flyvaff.com/#/?code=6ae5FH9i)**
 
@@ -188,7 +188,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 <div class="ap-brand is-top" markdown="1">
 
-### 微风网络
+### 微风网络 {#weifeng}
 
 **👉 [前往 微风网络 官网注册](https://edp01.breezenetaff.com/#/?code=6ehSdfxw)**
 
@@ -219,7 +219,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 <div class="ap-brand is-top" markdown="1">
 
-### 灵动云
+### 灵动云 {#lingdongyun}
 
 **👉 [前往 灵动云 官网注册](https://varnexa.lingdongaff.com/#/?code=TIMwZeIR)**
 
@@ -254,7 +254,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 <div class="ap-brand is-top" markdown="1">
 
-### 无忧链接
+### 无忧链接 {#wuyou}
 
 **👉 [前往 无忧链接 官网注册](https://wep01.worryfreeaff.com/#/?code=ydtFVWqU)**
 
@@ -283,7 +283,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 <div class="ap-brand is-top" markdown="1">
 
-### firefly
+### firefly {#firefly}
 
 **👉 [前往 firefly 官网注册](https://vip02.fireflyaff.com/#/?code=mcYQUZxG)**
 
@@ -313,7 +313,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 <div class="ap-brand is-top" markdown="1">
 
-### sogo云
+### sogo云 {#sogoyun}
 
 **👉 [前往 sogo云 官网注册](https://wzjc.sogoyunaff.cc/#/?code=JvxcPy2A)**
 
@@ -353,7 +353,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 <div class="ap-brand is-top" markdown="1">
 
-### 隐形人
+### 隐形人 {#yinxingren}
 
 **👉 [前往 隐形人 官网注册](https://varnexa.invisibleaff.com/#/?code=8jyAXfu3)**
 
@@ -387,7 +387,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 <div class="ap-brand is-top" markdown="1">
 
-### 暮光加速
+### 暮光加速 {#muguang}
 
 **👉 [前往 暮光加速 官网注册](https://varnexa.twilightaff.com/#/?code=1eGqV85O)**
 
@@ -422,31 +422,31 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 **📂 更多品牌资料：** 飞猫云、灵猫、跨界云等另外 25 家品牌的套餐价格、优惠码和特点，已整理到 [2026年11月机场品牌资料统计](/tuijianjichang/brands/)，每月更新。
 
-- [飞猫云](/tuijianjichang/brands/#飞猫云)
-- [灵猫](/tuijianjichang/brands/#灵猫)
-- [跨界云](/tuijianjichang/brands/#跨界云)
-- [闪跃](/tuijianjichang/brands/#闪跃)
-- [一翻云](/tuijianjichang/brands/#一翻云)
-- [光速云](/tuijianjichang/brands/#光速云)
+- [飞猫云](/tuijianjichang/brands/#feimaoyun)
+- [灵猫](/tuijianjichang/brands/#lingmao)
+- [跨界云](/tuijianjichang/brands/#kuajieyun)
+- [闪跃](/tuijianjichang/brands/#shanyue)
+- [一翻云](/tuijianjichang/brands/#yifan)
+- [光速云](/tuijianjichang/brands/#guangsuyun)
 - [Phantom](/tuijianjichang/brands/#phantom)
-- [边缘节点](/tuijianjichang/brands/#边缘节点)
-- [速界机场](/tuijianjichang/brands/#速界机场)
-- [快狸](/tuijianjichang/brands/#快狸)
-- [二猫云](/tuijianjichang/brands/#二猫云)
-- [星岛梦](/tuijianjichang/brands/#星岛梦)
-- [光年梯](/tuijianjichang/brands/#光年梯)
-- [极连云](/tuijianjichang/brands/#极连云)
+- [边缘节点](/tuijianjichang/brands/#bianyuan)
+- [速界机场](/tuijianjichang/brands/#sujie)
+- [快狸](/tuijianjichang/brands/#kuaili)
+- [二猫云](/tuijianjichang/brands/#ermaoyun)
+- [星岛梦](/tuijianjichang/brands/#xingdaomeng)
+- [光年梯](/tuijianjichang/brands/#guangnianti)
+- [极连云](/tuijianjichang/brands/#jilianyun)
 - [U1S1](/tuijianjichang/brands/#u1s1)
 - [WaveNet](/tuijianjichang/brands/#wavenet)
-- [唯兔云](/tuijianjichang/brands/#唯兔云)
+- [唯兔云](/tuijianjichang/brands/#weituyun)
 - [BitzNet](/tuijianjichang/brands/#bitznet)
-- [可信云](/tuijianjichang/brands/#可信云)
+- [可信云](/tuijianjichang/brands/#kexinyun)
 - [NanoCloud](/tuijianjichang/brands/#nanocloud)
-- [梯子云](/tuijianjichang/brands/#梯子云)
-- [大佬云](/tuijianjichang/brands/#大佬云)
-- [宇宙云](/tuijianjichang/brands/#宇宙云)
-- [神行加速](/tuijianjichang/brands/#神行加速)
-- [全球云](/tuijianjichang/brands/#全球云)
+- [梯子云](/tuijianjichang/brands/#tiziyun)
+- [大佬云](/tuijianjichang/brands/#dalao)
+- [宇宙云](/tuijianjichang/brands/#yuzhouyun)
+- [神行加速](/tuijianjichang/brands/#shenxing)
+- [全球云](/tuijianjichang/brands/#quanqiuyun)
 
 </div>
 
