@@ -758,3 +758,64 @@ img {
     .site-search { padding: 0; }
     .site-search-panel { max-width: none; max-height: 100%; height: 100%; border-radius: 0; border: 0; }
 }
+
+/* 手机表格：一行一张卡片，文字自动换行，不需要左右滑动（assets/js/tables.js 加上 ap-stack 和 data-label） */
+@media (max-width: 700px) {
+    .ap-page .ap-table { overflow: visible; }
+    .ap-page table.ap-stack,
+    .ap-page .ap-brand table.ap-stack {
+        display: block;
+        min-width: 0;
+        width: 100%;
+        overflow: visible;
+        white-space: normal;
+        border: 0;
+        border-radius: 0;
+    }
+    .ap-page table.ap-stack thead { display: none; }
+    .ap-page table.ap-stack tbody,
+    .ap-page table.ap-stack tr { display: block; }
+    .ap-page table.ap-stack tr {
+        margin-bottom: 10px;
+        padding: 10px 14px;
+        background: var(--ap-surface-raised);
+        border: 1px solid var(--ap-line);
+        border-radius: 12px;
+    }
+    .ap-page table.ap-stack td {
+        display: block;
+        position: relative;
+        min-height: 2em;
+        padding: 5px 0 5px 7.2em;
+        border: 0;
+        white-space: normal;
+        overflow-wrap: anywhere;
+        text-align: left !important;
+        background: none;
+    }
+    .ap-page table.ap-stack tbody tr:hover td { background: none; }
+    .ap-page table.ap-stack td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 0;
+        top: 5px;
+        width: 6.6em;
+        font-size: 0.8rem;
+        line-height: 1.8;
+        color: var(--ap-muted);
+    }
+    .ap-page table.ap-stack td.is-empty { display: none; }
+    .ap-page table.ap-stack td:first-child {
+        display: flex;
+        align-items: center;
+        padding-left: 0;
+        margin-bottom: 4px;
+        padding-bottom: 8px;
+        border-bottom: 1px solid var(--ap-line);
+        font-size: 1rem;
+        font-weight: 700;
+    }
+    .ap-page table.ap-stack td:first-child::before { content: none; }
+    .ap-page .ap-rank-table table.ap-stack td:first-child::before { content: counter(ap-row); position: static; width: 24px; }
+    .ap-page table.ap-stack td code { white-space: normal; }
+}
