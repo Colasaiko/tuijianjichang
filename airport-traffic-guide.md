@@ -1,14 +1,19 @@
 ---
 layout: default
+page_class: ap-page
 title: 机场流量怎么选：100GB、300GB、500GB够用吗
 description: 机场流量选择指南，说明网页、AI、高清视频、下载和多设备使用对流量的影响，帮助判断100GB、300GB、500GB及更高流量套餐是否适合自己。
 ---
+
+<div class="ap-hero" markdown="1">
 
 # 机场流量怎么选：100GB、300GB、500GB 够用吗？
 
 在浏览 [机场推荐清单](/tuijianjichang/airport.html) 时，最让人纠结的问题往往是：**“我一个月到底需要买多少流量？”** 
 
 买少了，月底断网很尴尬；买多了，流量清零又觉得浪费。本文将通过拆解常见的网络行为，教你如何精准预估自己的流量需求。
+
+</div>
 
 ## 流量到底是怎么消耗的？
 在使用机场节点时，所有的上行（发送）和下行（接收）数据都会被计算在内。更需要注意的是**“节点倍率”**。有些服务商的冷门节点或昂贵专线（如 [IPLC / IEPL](/tuijianjichang/iplc-iepl-guide.html)）可能会设置 `2x` 甚至更高的倍率，这意味着你实际使用了 1GB，但后台会扣除 2GB 流量。因此，在评估需求前，请尽量选择统一 `1x` 计费的套餐。
@@ -51,4 +56,10 @@ description: 机场流量选择指南，说明网页、AI、高清视频、下�
 最精准的方法，是查看你目前使用的手机系统或电脑操作系统中的“应用数据流量统计”，找到常用的翻墙软件或流媒体软件，看看它上个月跑了多少流量，然后再上浮 30% 作为你的购买标准。
 
 ---
+
+<div class="ap-footer-nav" markdown="1">
+
 [🏠 返回首页](./) | [👉 查看机场推荐](./airport.html) | [👉 IPLC和IEPL有什么区别](./iplc-iepl-guide.html) | [👉 Clash Guide](https://colasaiko.github.io/Clash-/) | [👉 新手指南](https://colasaiko.github.io/NewbieRead/)
+
+</div>
+

@@ -1,32 +1,47 @@
 ﻿---
 layout: default
+page_class: ap-page
 title: Windows、macOS、Android 与 iOS 代理客户端指南
 description: 主流代理工具客户端 v2rayN、Clash Verge Rev、Shadowrocket、v2rayNG 等各平台下载与使用指南。
 ---
+
+<div class="ap-hero" markdown="1">
 
 # 💻 代理客户端选择与教程
 
 针对不同的操作系统（Windows / macOS / iOS / Android），我们需要选择最合适的代理客户端工具。以下是本站整理的各平台主力工具教程。
 
+</div>
+
 ## 🪟 Windows 客户端
 
 Windows 平台拥有最丰富的代理工具生态，适合办公、游戏等复杂场景。
 
+<div class="ap-links" markdown="1">
+
 - **[Windows 客户端推荐 / v2rayN](https://jichangmao.com/blog/windows-v2rayn-guide/)**
   *简介：老牌经典的 V2Ray 客户端。界面稍显极客，但功能极其强大，适合有一定基础的用户日常使用。*
+
+</div>
 
 ## 🍏 macOS 客户端
 
 Mac 用户通常追求界面的优雅与系统的低资源占用。
+
+<div class="ap-links" markdown="1">
 
 - **[macOS 客户端推荐 / Clash Verge Rev](https://jichangmao.com/blog/mac-clash-verge-rev-guide/)**
   *简介：目前 Mac 平台首选的开源免费 Clash 客户端，基于 Tauri 框架，性能极佳，支持最新的 Mihomo 内核，强烈推荐。*
 - **[Mac 网络客户端怎么选？Clash Verge Rev、sing-box 和 Stash 对比](https://bestjichang.com/blog/mac-client-comparison/)**
   *简介：深度横向对比，帮助你了解不同代理内核（sing-box/Clash）的区别，适合进阶用户。*
 
+</div>
+
 ## 🍎 iOS (iPhone/iPad) 客户端
 
 由于系统封闭性，iOS 上的优秀网络工具通常需要非国区 Apple ID，并且部分软件为付费买断制。
+
+<div class="ap-links" markdown="1">
 
 - **[iOS 客户端推荐 / Shadowrocket (小火箭)](https://jichangmao.com/blog/shadowrocket-guide/)**
   *简介：iOS 端性价比最高、最著名的代理工具。支持极多协议，适合绝大多数普通用户的日常番剧与网页浏览。*
@@ -37,15 +52,22 @@ Mac 用户通常追求界面的优雅与系统的低资源占用。
 - **[Surge 教程](https://jichangmao.com/blog/ios-surge-guide/)**
   *简介：iOS/Mac 生态下最强大、价格也最昂贵的顶级网络开发/代理工具。*
 
+</div>
+
 ## 🤖 Android 客户端
 
 Android 生态开放，有很多免费且优秀的开源选择。
 
+<div class="ap-links" markdown="1">
+
 - **[Android 客户端推荐 / v2rayNG](https://jichangmao.com/blog/v2rayng-guide/)**
   *简介：安卓平台最普及的代理客户端。操作简单直接，复制节点链接即可使用。*
 
+</div>
 
 ## 📊 不同系统客户端怎么选
+
+<div class="ap-table" markdown="1">
 
 | 系统 | 推荐客户端 | 适合人群 | 上手难度 | 费用情况 |
 |---|---|---|---|---|
@@ -53,6 +75,8 @@ Android 生态开放，有很多免费且优秀的开源选择。
 | macOS | Clash Verge Rev | 普通用户 | 简单 | 免费 |
 | iOS / iPadOS | Shadowrocket | 普通用户 | 简单 | 付费 |
 | Android | v2rayNG | 普通用户 | 简单 | 免费 |
+
+</div>
 
 ### Clash Verge Rev 和 v2rayN 怎么选
 对于绝大多数 Windows 和 macOS 用户，**Clash Verge Rev** 是目前最推荐的选择。它拥有现代化的图形界面，支持强大的订阅管理、规则分流（自动判断国内外网站）以及易用的设置面板。
@@ -70,6 +94,9 @@ Android 生态开放，有很多免费且优秀的开源选择。
 
 ### 客户端连不上时先检查什么
 如果你遇到了连不上网的情况，请按照以下步骤快速排障：
+
+<div class="ap-numbered" markdown="1">
+
 1. **订阅是否过期**：登录机场官网，检查流量是否用尽或套餐是否到期。
 2. **节点是否可用**：切换到另一个地区的节点（比如从香港换到日本）重试。
 3. **系统时间**：确保你的电脑或手机系统时间是准确的（与标准时间误差不超过 1-2 分钟），否则加密协议会拒绝连接。
@@ -78,6 +105,13 @@ Android 生态开放，有很多免费且优秀的开源选择。
 6. **刷新 DNS**：清理系统 DNS 缓存，或在客户端内重启核心。
 7. **更新客户端与订阅**：点击“更新订阅”获取最新节点，同时确保你使用的客户端是较新版本。
 
+</div>
 
 ---
+
+<div class="ap-footer-nav" markdown="1">
+
 [🏠 返回首页](./) | [👉 需要配置 Clash？查看教程](https://colasaiko.github.io/Clash-/) | [👉 查看机场推荐](./airport.html)
+
+</div>
+

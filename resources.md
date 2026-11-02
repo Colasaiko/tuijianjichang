@@ -1,14 +1,21 @@
 ﻿---
 layout: default
+page_class: ap-page
 title: Clash、VPN 与机场教程资源导航
 description: 持续维护的博客网络与学习资源库，囊括 AI、流媒体解锁及专业测速。
 ---
+
+<div class="ap-hero" markdown="1">
 
 # 🌐 博客与资源网络
 
 本站的内容索引主要来源于以下持续维护的优质博客站点。它们在各自的领域深耕，为你提供最新、最真实的资讯与教程。
 
+</div>
+
 ## 📖 核心博客网络
+
+<div class="ap-links" markdown="1">
 
 - **[Clash Wiki](https://clashwiki.blog)**
   *主要内容方向：Clash / VPN 基础教程、代理工具排障与 AI 专区。*
@@ -34,7 +41,11 @@ description: 持续维护的博客网络与学习资源库，囊括 AI、流媒�
   *主要内容方向：2026机场推荐、套餐价格、流量、线路、品牌选购导航。*
   *推荐阅读场景：买机场前比对各家套餐的流量价格比。*
 
+</div>
+
 ## 📚 专属教程站点
+
+<div class="ap-links" markdown="1">
 
 - **[NewbieRead 新手教程](https://colasaiko.github.io/NewbieRead/)**
   *主要内容方向：面向零基础新手的 VPN、IP、节点纯科普手册。*
@@ -44,17 +55,35 @@ description: 持续维护的博客网络与学习资源库，囊括 AI、流媒�
   *主要内容方向：Clash 配置、节点测试、URL-Test 网络质量判断与进阶控制台手册。*
   *推荐阅读场景：你想深入掌握 Clash 规则，让节点实现自动优选和故障切换时。*
 
+</div>
+
 ## 🤖 场景专区导航
 
-- **AI 工具与服务解锁**：
-  - [AI 工具导航](https://clashwiki.blog/category/ai-tools/)
-  - [ChatGPT 等 AI 工具无缝访问](https://vpn-clash.net/topics/ai)
+<div class="ap-links" markdown="1">
 
-- **流媒体与视频**：
-  - [影音娱乐与流媒体解锁](https://vpn-clash.net/topics/streaming)
+- **[ClashWiki · AI 工具专区](https://clashwiki.blog/category/ai-tools/)**
+  *主要内容方向：ChatGPT、Claude、Cursor、Perplexity 等 AI 工具的上手教程与横向对比，以及 AI 账号防封、原生 IP 节点选择和分流规则配置。*
+  *推荐阅读场景：想挑一款合适的 AI 工具、学习提示词写法，或者 AI 账号频繁被风控时。*
 
-- **其他生态项目**：
-  - [Runa iNav](https://runainav.com) *(🚧 即将上线)*
+- **[VPN Clash · ChatGPT 与 AI 工具无缝访问](https://vpn-clash.net/topics/ai)**
+  *主要内容方向：ChatGPT 提示“Access Denied”的自救、Claude 防封养号、Midjourney 出图加速、海外 AI 注册收验证码与虚拟卡订阅，以及 Cursor / Copilot 编辑器走代理。*
+  *推荐阅读场景：AI 网页打不开、注册收不到验证码、开通不了 Plus 会员，或者代码编辑器里的 AI 一直连不上时。*
+
+- **[VPN Clash · 影音娱乐与流媒体解锁](https://vpn-clash.net/topics/streaming)**
+  *主要内容方向：Netflix 跨区看片、Disney+ 地区报错、YouTube 默认 4K 画质、手机投屏电视、Spotify 掉线，以及原生 IP 真假鉴定。*
+  *推荐阅读场景：追剧提示“此内容在您的地区不可用”、视频总是模糊，或者想确认节点是不是真正的原生 IP 时。*
+
+- **[RunAI 导航](https://runainav.com)**
+  *主要内容方向：全球 AI 工具导航（聊天、写作、编程、绘画、视频、搜索、办公、音乐），并整理 AI 使用指南、海外 AI 国内使用实测与网络方案。*
+  *推荐阅读场景：不知道一件事该用哪个 AI 工具，或者想先看看 ChatGPT、Claude、Gemini 在国内的实际可用状态时。*
+
+</div>
 
 ---
+
+<div class="ap-footer-nav" markdown="1">
+
 [🏠 返回首页](./) | [👉 查看机场推荐](./airport.html) | [👉 查看新手指南](https://colasaiko.github.io/NewbieRead/)
+
+</div>
+

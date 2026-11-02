@@ -1,14 +1,19 @@
 ---
 layout: default
+page_class: ap-page
 title: IPLC和IEPL区别：机场专线线路怎么选
 description: 介绍IPLC、IEPL、中转与普通国际线路的基本区别，并说明选择机场线路时应该关注延迟、入口、节点负载、带宽与实际使用场景。
 ---
+
+<div class="ap-hero" markdown="1">
 
 # IPLC 和 IEPL 区别：机场专线线路怎么选
 
 在选择机场套餐（可前往 [机场推荐](/tuijianjichang/airport.html) 查看）时，你一定会频繁看到“IPLC”、“IEPL”、“BGP 中转”、“直连”等专业名词。不同线路的技术原理决定了你在日常使用、晚高峰期的实际体验。
 
 本文将用通俗易懂的方式为你解析这些线路的区别，帮助你在选购时避开商家的营销陷阱。
+
+</div>
 
 ## 什么是普通国际线路（直连）？
 普通国际线路就是你的设备直接通过公网连接到海外服务器。
@@ -33,9 +38,14 @@ IEPL（International Ethernet Private Line，国际以太网专线）可以理�
 ## 不要把线路名称等同于“速度保证”
 很多新手会认为：“只要买了写着 IPLC 的套餐，网速就一定最快。”
 这是一个非常常见的误区。即使同样标榜为 IPLC 或 IEPL，实际体验仍可能千差万别，因为：
+
+<div class="ap-numbered" markdown="1">
+
 1. **入口带宽**：如果服务商给几千个用户只分配了一根 1Gbps 的专线，晚高峰大家一起挤，依然会卡顿。
 2. **落地机质量**：专线只解决了从“国内到海外”这一段路的延迟，如果海外落地服务器（比如香港节点的机器）性能差、IP 被滥用，你依然打不开 Netflix 或 ChatGPT。
 3. **本地网络**：你家里的宽带运营商、Wi-Fi 路由器性能，也是决定最终速度的关键环节。
+
+</div>
 
 ## 普通用户应该如何选？
 - **如果你是偶尔查资料、用 AI 的轻度用户**：
@@ -46,4 +56,10 @@ IEPL（International Ethernet Private Line，国际以太网专线）可以理�
   那么请务必选择提供真实 IPLC / IEPL 专线的套餐，极低的延迟和 0 丢包率是你必须支付的溢价。
 
 ---
+
+<div class="ap-footer-nav" markdown="1">
+
 [🏠 返回首页](./) | [👉 查看机场推荐](./airport.html) | [👉 机场流量怎么选](./airport-traffic-guide.html) | [👉 Clash Guide](https://colasaiko.github.io/Clash-/) | [👉 新手指南](https://colasaiko.github.io/NewbieRead/)
+
+</div>
+

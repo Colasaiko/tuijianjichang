@@ -7,7 +7,7 @@
     {% if page.description %}
     <meta name="description" content="{{ page.description }}">
     {% endif %}
-    <link rel="stylesheet" href="/tuijianjichang/assets/css/style-v2.css?v=20260912-2">
+    <link rel="stylesheet" href="/tuijianjichang/assets/css/style-v2.css?v=20261102-2">
     <style>
         /* Navbar geometry is intentionally fixed so page changes never resize it. */
         .navbar-wrapper {
@@ -187,12 +187,12 @@
             <nav class="nav-links">
                 <a href="/tuijianjichang/" class="nav-item {% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">首页</a>
                 <a href="/tuijianjichang/airport.html" class="nav-item {% if page.url == '/airport.html' %}active{% endif %}">机场推荐</a>
-                <a href="/brands/" class="nav-item">品牌库</a>
+                <a href="/tuijianjichang/brands/" class="nav-item">品牌库</a>
                 <a href="/tuijianjichang/how-to-choose-airport.html" class="nav-item">排行榜</a>
                 <a href="https://colasaiko.github.io/Clash-/" class="nav-item">教程</a>
                 <a href="/tuijianjichang/resources.html" class="nav-item">工具</a>
                 <a href="https://colasaiko.github.io/About-My-Self/" class="nav-item">关于</a>
-                <a href="#" class="nav-item nav-special" style="font-size: 18px;">🔍</a>
+                <a href="#search" class="nav-item nav-special" style="font-size: 18px;" data-search-open aria-label="站内搜索">🔍</a>
             </nav>
 
             <button class="hamburger-btn" onclick="document.getElementById('mobile-menu').classList.toggle('open')">☰</button>
@@ -201,15 +201,16 @@
         <div id="mobile-menu" class="mobile-menu">
             <a href="/tuijianjichang/" class="nav-item">首页</a>
             <a href="/tuijianjichang/airport.html" class="nav-item">机场推荐</a>
-            <a href="/brands/" class="nav-item">品牌库</a>
+            <a href="/tuijianjichang/brands/" class="nav-item">品牌库</a>
             <a href="/tuijianjichang/how-to-choose-airport.html" class="nav-item">排行榜</a>
             <a href="https://colasaiko.github.io/Clash-/" class="nav-item">教程</a>
             <a href="/tuijianjichang/resources.html" class="nav-item">工具</a>
             <a href="https://colasaiko.github.io/About-My-Self/" class="nav-item">关于</a>
+            <a href="#search" class="nav-item" data-search-open>🔍 站内搜索</a>
         </div>
     </header>
 
-    <main class="container main-content">
+    <main class="container main-content {{ page.page_class }}">
         {{ content }}
     </main>
 
@@ -237,7 +238,7 @@
                 <div class="footer-col">
                     <h4>友情链接</h4>
                     <a href="/tuijianjichang/resources.html">导航与工具</a>
-                    <a href="/brands/">热门品牌</a>
+                    <a href="/tuijianjichang/brands/">热门品牌</a>
                 </div>
             </div>
             <div class="footer-bottom">
@@ -245,5 +246,6 @@
             </div>
         </div>
     </footer>
+    <script src="/tuijianjichang/assets/js/search.js?v=20261102-3" defer></script>
 </body>
 </html>
