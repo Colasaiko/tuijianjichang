@@ -59,7 +59,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 |---|---:|---:|---|---|
 | [飞V](https://varnexa.flyvaff.com/#/?code=6ae5FH9i) | ¥25 | 150GB | `fly20` 8折（新用户首单） | 港台日新 IEPL/IPLC 专线、官方客户端登录即用、不限设备 |
 | [微风网络](https://edp01.breezenetaff.com/#/?code=6ehSdfxw) | ¥25 | 200GB | `weifeng90` 9折 | IPLC、设备数不限、标注不限速 |
-| [灵动云](https://varnexa.lingdongaff.com/#/?code=TIMwZeIR) | ¥20 | 100GB | `zq88` 8折 | 纯专线+BGP 三网优化、支持订阅导入、ChatGPT/Claude |
+| [灵动云](https://varnexa.lingdongaff.com/#/?code=TIMwZeIR) | ¥20 | 100GB | `ld888` 8折 | 纯专线+BGP 三网优化、支持订阅导入、ChatGPT/Claude |
 | [无忧链接](https://wep01.worryfreeaff.com/#/?code=ydtFVWqU) | ¥19 | 100GB | `wuyou666` 8折 | 全 IPLC、1x 倍率、ChatGPT/Gemini 与流媒体 |
 | [Firefly](https://vip02.fireflyaff.com/#/?code=mcYQUZxG) | ¥25 | 150GB | `firefly` 8折 | IPLC、不限设备数、标注不限速 |
 | [Sogo 云](https://wzjc.sogoyunaff.cc/#/?code=JvxcPy2A) | ¥25 | 150GB | `sogo10000` 9折 | VLESS、IEPL、三网优化、流媒体与 AI 支持 |
@@ -223,7 +223,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 **👉 [前往 灵动云 官网注册](https://varnexa.lingdongaff.com/#/?code=TIMwZeIR)**
 
-**🎁 专属优惠：** `zq88（8折）`
+**🎁 专属优惠：** `ld888（8折）`
 
 **适合关注这个品牌的人：**
 除了常规周期套餐，还提供不限时/按量计费套餐，适合低频使用或作为备用线路。
