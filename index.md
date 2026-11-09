@@ -352,37 +352,41 @@ description: 整理稳定、便宜、年付、专线等不同需求的2026机场
       <a href="/tuijianjichang/brands/" style="text-decoration:none; color:#007AFF; margin-bottom:24px; font-weight:600;">查看全部品牌 →</a>
     </div>
     <div class="brands-grid">
+      <a href="https://edp01.breezenetaff.com/#/?code=6ehSdfxw" target="_blank" rel="noopener noreferrer" class="brand-item">
+        <div class="brand-name">微风网络</div>
+        <div class="brand-tag">性价比推荐</div>
+      </a>
+      <a href="https://varnexa.twilightaff.com/#/?code=1eGqV85O" target="_blank" rel="noopener noreferrer" class="brand-item">
+        <div class="brand-name">暮光加速</div>
+        <div class="brand-tag">流媒体与AI</div>
+      </a>
       <a href="https://varnexa.flyvaff.com/#/?code=6ae5FH9i" target="_blank" rel="noopener noreferrer" class="brand-item">
         <div class="brand-name">飞V</div>
         <div class="brand-tag">IEPL/IPLC专线</div>
       </a>
-      <a href="https://edp01.breezenetaff.com/#/?code=6ehSdfxw" target="_blank" rel="noopener noreferrer" class="brand-item">
-        <div class="brand-name">微风网络</div>
-        <div class="brand-tag">性价比推荐</div>
+      <a href="https://varnexa.wavenetaff.com/#/?code=pcFhy7Lb" target="_blank" rel="noopener noreferrer" class="brand-item">
+        <div class="brand-name">浪网</div>
+        <div class="brand-tag">IEPL全专线</div>
       </a>
       <a href="https://varnexa.lingdongaff.com/#/?code=TIMwZeIR" target="_blank" rel="noopener noreferrer" class="brand-item">
         <div class="brand-name">灵动云</div>
         <div class="brand-tag">专线+BGP优化</div>
       </a>
-      <a href="https://wep01.worryfreeaff.com/#/?code=ydtFVWqU" target="_blank" rel="noopener noreferrer" class="brand-item">
-        <div class="brand-name">无忧链接</div>
-        <div class="brand-tag">稳定可靠</div>
+      <a href="https://varnexa.invisibleaff.com/#/?code=8jyAXfu3" target="_blank" rel="noopener noreferrer" class="brand-item">
+        <div class="brand-name">隐形人</div>
+        <div class="brand-tag">IEPL不限设备</div>
       </a>
       <a href="https://vip02.fireflyaff.com/#/?code=mcYQUZxG" target="_blank" rel="noopener noreferrer" class="brand-item">
         <div class="brand-name">FireFly</div>
         <div class="brand-tag">全专线节点</div>
       </a>
+      <a href="https://wep01.worryfreeaff.com/#/?code=ydtFVWqU" target="_blank" rel="noopener noreferrer" class="brand-item">
+        <div class="brand-name">无忧链接</div>
+        <div class="brand-tag">稳定可靠</div>
+      </a>
       <a href="https://wzjc.sogoyunaff.cc/#/?code=JvxcPy2A" target="_blank" rel="noopener noreferrer" class="brand-item">
         <div class="brand-name">Sogo云</div>
         <div class="brand-tag">IEPL三网优化</div>
-      </a>
-      <a href="https://varnexa.invisibleaff.com/#/?code=8jyAXfu3" target="_blank" rel="noopener noreferrer" class="brand-item">
-        <div class="brand-name">隐形人</div>
-        <div class="brand-tag">IEPL不限设备</div>
-      </a>
-      <a href="https://varnexa.twilightaff.com/#/?code=1eGqV85O" target="_blank" rel="noopener noreferrer" class="brand-item">
-        <div class="brand-name">暮光加速</div>
-        <div class="brand-tag">流媒体与AI</div>
       </a>
     </div>
   </section>
