@@ -66,6 +66,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 | [Firefly](https://vip02.fireflyaff.com/#/?code=mcYQUZxG) | ¥25 | 150GB | `firefly` 8折 | IPLC、不限设备数、标注不限速 |
 | [无忧链接](https://wep01.worryfreeaff.com/#/?code=ydtFVWqU) | ¥19 | 100GB | `wuyou666` 8折 | 全 IPLC、1x 倍率、ChatGPT/Gemini 与流媒体 |
 | [Sogo 云](https://wzjc.sogoyunaff.cc/#/?code=JvxcPy2A) | ¥25 | 150GB | `sogo10000` 9折 | VLESS、IEPL、三网优化、流媒体与 AI 支持 |
+
 </div>
 
 ## 💰 按预算怎么选更容易
