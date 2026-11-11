@@ -1,6 +1,6 @@
 ---
 layout: default
-page_class: ap-page ap-has-aside
+page_class: ap-page ap-has-aside ap-theme-cyber
 title: 2026机场推荐排行榜：稳定机场套餐与线路对比
 description: 2026机场推荐排行榜与选购指南，整理不同预算、流量与线路需求的稳定机场选择，对比IPLC/IEPL线路、AI与流媒体支持、套餐价格、设备限制及使用场景。
 ---

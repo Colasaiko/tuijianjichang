@@ -905,3 +905,168 @@ img {
     }
     .ap-has-aside .ap-aside-card { position: sticky; top: 96px; }
 }
+
+/* ==========================================================================
+   深色科技风（page_class 加 ap-theme-cyber）：只改颜色与外观，不动内容
+   固定为深色，不随系统浅色 / 深色切换
+   ========================================================================== */
+:root:has(main.ap-theme-cyber) {
+    color-scheme: dark;
+    --bg-color: #070d18;
+    --text-color: #dbe4f3;
+    --card-bg: rgba(11, 18, 32, 0.78);
+    --primary-color: #22d3ee;
+    --border-color: rgba(56, 189, 248, 0.18);
+    --header-bg: #0b1220;
+    --footer-bg: #050a14;
+    --link-color: #38bdf8;
+    --code-bg: #0b1426;
+    --text-muted: #94a3b8;
+    --ss-accent: #22d3ee;
+    --ss-muted: #94a3b8;
+    --ss-mark: rgba(34, 211, 238, 0.25);
+    --ss-mark-text: #ecfeff;
+}
+:root:has(main.ap-theme-cyber) body {
+    background-color: var(--bg-color);
+    background-image:
+        radial-gradient(ellipse 80% 50% at 50% -10%, rgba(34, 211, 238, 0.12), transparent 70%),
+        linear-gradient(rgba(34, 211, 238, 0.035) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(34, 211, 238, 0.035) 1px, transparent 1px);
+    background-size: 100% 100%, 32px 32px, 32px 32px;
+    background-attachment: fixed;
+}
+:root:has(main.ap-theme-cyber) .navbar-inner {
+    background: rgba(7, 13, 24, 0.82);
+    border: 1px solid rgba(56, 189, 248, 0.2);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+:root:has(main.ap-theme-cyber) .brand-icon { background: rgba(34, 211, 238, 0.12); border-color: rgba(34, 211, 238, 0.35); }
+:root:has(main.ap-theme-cyber) .nav-item:hover { background: rgba(34, 211, 238, 0.08); }
+:root:has(main.ap-theme-cyber) .nav-item.active { background: rgba(34, 211, 238, 0.12); border-color: rgba(34, 211, 238, 0.35); }
+:root:has(main.ap-theme-cyber) .nav-special { background: rgba(34, 211, 238, 0.06); border-color: rgba(34, 211, 238, 0.45); }
+/* 布局里的内嵌样式写死了浅色，这里用更高优先级改成深色 */
+:root:has(main.ap-theme-cyber) .nav-item { color: #cbd5e1; }
+:root:has(main.ap-theme-cyber) .nav-item:hover { background: rgba(34, 211, 238, 0.1); color: #67e8f9; }
+:root:has(main.ap-theme-cyber) .nav-item.active { background: #22d3ee; color: #04121c; box-shadow: 0 0 14px rgba(34, 211, 238, 0.4); }
+:root:has(main.ap-theme-cyber) .brand-subtitle { color: #94a3b8; }
+:root:has(main.ap-theme-cyber) .hamburger-btn { color: #e2e8f0; }
+:root:has(main.ap-theme-cyber) .mobile-menu.open { background: #0b1220; border: 1px solid rgba(56, 189, 248, 0.25); box-shadow: 0 12px 32px rgba(0, 0, 0, 0.5); }
+:root:has(main.ap-theme-cyber) .site-footer { opacity: 1; color: #94a3b8; background: #050a14; border-top-color: rgba(56, 189, 248, 0.15); }
+:root:has(main.ap-theme-cyber) .footer-col h4 { color: #e2e8f0; }
+:root:has(main.ap-theme-cyber) .footer-col a { color: #94a3b8; }
+:root:has(main.ap-theme-cyber) .footer-col a:hover { color: #67e8f9; }
+:root:has(main.ap-theme-cyber) .footer-bottom { color: #64748b; border-top-color: rgba(56, 189, 248, 0.12); }
+
+.ap-page.ap-theme-cyber {
+    --ap-accent: #22d3ee;
+    --ap-accent-strong: #67e8f9;
+    --ap-accent-soft: rgba(34, 211, 238, 0.08);
+    --ap-on-accent: #04121c;
+    --ap-surface: #0b1426;
+    --ap-surface-raised: rgba(13, 22, 40, 0.85);
+    --ap-line: rgba(56, 189, 248, 0.16);
+    --ap-muted: #94a3b8;
+    --ap-coupon-bg: rgba(34, 211, 238, 0.06);
+    --ap-coupon-line: rgba(34, 211, 238, 0.45);
+    --ap-coupon-text: #67e8f9;
+    --ap-gold: #fbbf24;
+    --ap-silver: #e2e8f0;
+    --ap-bronze: #fb923c;
+    --ap-on-medal: #0b1220;
+    --ap-hero-from: rgba(34, 211, 238, 0.10);
+    --ap-hero-to: rgba(59, 130, 246, 0.05);
+    --ap-shadow: 0 0 0 1px rgba(56, 189, 248, 0.04), 0 8px 24px rgba(0, 0, 0, 0.35);
+    --ap-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    background: var(--card-bg);
+    border: 1px solid var(--ap-line);
+    box-shadow: 0 0 40px rgba(34, 211, 238, 0.05), 0 20px 50px rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+}
+.ap-theme-cyber h1,
+.ap-theme-cyber h2,
+.ap-theme-cyber h3,
+.ap-theme-cyber strong { color: #f1f5f9; }
+.ap-theme-cyber h2 { border-bottom-color: var(--ap-line); }
+.ap-theme-cyber a { color: var(--link-color); }
+.ap-theme-cyber code {
+    font-family: var(--ap-mono);
+    background: var(--ap-coupon-bg);
+    color: var(--ap-coupon-text);
+    border: 1px solid var(--ap-coupon-line);
+    border-radius: 4px;
+    padding: 1px 6px;
+}
+
+/* 页首：发光边框和渐变标题 */
+.ap-theme-cyber .ap-hero {
+    border-color: rgba(34, 211, 238, 0.28);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04), 0 0 32px rgba(34, 211, 238, 0.08);
+}
+.ap-theme-cyber .ap-hero h1 {
+    background: linear-gradient(90deg, #67e8f9, #38bdf8 55%, #818cf8);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+.ap-theme-cyber .ap-hero blockquote { background: rgba(251, 191, 36, 0.06); border-left-color: var(--ap-gold); color: #cbd5e1; }
+
+/* 卡片、导航块悬停时发光 */
+.ap-theme-cyber .ap-toc a,
+.ap-theme-cyber .ap-steps > p,
+.ap-theme-cyber .ap-checks li,
+.ap-theme-cyber .ap-faq > p,
+.ap-theme-cyber .ap-links > ul > li,
+.ap-theme-cyber .ap-footer-nav a { border-radius: 8px; }
+.ap-theme-cyber .ap-toc a:hover,
+.ap-theme-cyber .ap-links > ul > li:hover,
+.ap-theme-cyber .ap-brand:hover { box-shadow: 0 0 0 1px rgba(34, 211, 238, 0.35), 0 0 24px rgba(34, 211, 238, 0.12); }
+.ap-theme-cyber .ap-brand { border-radius: 10px; }
+.ap-theme-cyber .ap-brand.is-top:first-child { box-shadow: 0 0 0 1px var(--ap-gold), 0 0 28px rgba(251, 191, 36, 0.12); }
+
+/* 表格：深色表头、等宽数字 */
+.ap-theme-cyber table { border-radius: 8px; }
+.ap-theme-cyber th { background: #08101f; color: #7dd3fc; font-family: var(--ap-mono); font-size: 0.78rem; letter-spacing: 0.04em; }
+.ap-theme-cyber td { font-variant-numeric: tabular-nums; }
+
+/* 排名徽章改成方形等宽数字：01、02…，前三名金银铜发光 */
+.ap-theme-cyber .ap-rank-table tbody td:first-child::before,
+.ap-theme-cyber .ap-brand.is-top h3::before {
+    content: counter(ap-row, decimal-leading-zero);
+    border-radius: 4px;
+    font-family: var(--ap-mono);
+}
+.ap-theme-cyber .ap-brand.is-top h3::before { content: counter(ap-brand, decimal-leading-zero); }
+.ap-theme-cyber .ap-rank-table tbody td:first-child::before { width: 30px; }
+.ap-theme-cyber .ap-rank-table tbody tr:nth-child(1) td:first-child::before,
+.ap-theme-cyber .ap-brand.is-top:nth-child(1) h3::before { box-shadow: 0 0 12px rgba(251, 191, 36, 0.45); }
+.ap-theme-cyber .ap-rank-table tbody tr:nth-child(2) td:first-child::before,
+.ap-theme-cyber .ap-brand.is-top:nth-child(2) h3::before { box-shadow: 0 0 12px rgba(226, 232, 240, 0.3); }
+.ap-theme-cyber .ap-rank-table tbody tr:nth-child(3) td:first-child::before,
+.ap-theme-cyber .ap-brand.is-top:nth-child(3) h3::before { box-shadow: 0 0 12px rgba(251, 146, 60, 0.4); }
+
+/* 按钮：青色实心，悬停发光 */
+.ap-theme-cyber .ap-brand > p:first-of-type a,
+.ap-theme-cyber .ap-aside-cta { border-radius: 6px; font-weight: 700; color: var(--ap-on-accent); }
+.ap-theme-cyber .ap-brand > p:first-of-type a:hover,
+.ap-theme-cyber .ap-aside-cta:hover { box-shadow: 0 0 18px rgba(34, 211, 238, 0.45); color: var(--ap-on-accent); }
+
+/* 右侧推荐栏 */
+.ap-theme-cyber .ap-aside-card {
+    background: linear-gradient(170deg, rgba(34, 211, 238, 0.10), rgba(11, 18, 32, 0.92) 45%);
+    border-color: rgba(34, 211, 238, 0.4);
+    border-radius: 10px;
+    box-shadow: 0 0 32px rgba(34, 211, 238, 0.12), 0 12px 32px rgba(0, 0, 0, 0.45);
+}
+.ap-theme-cyber .ap-aside-badge { border-radius: 4px; font-family: var(--ap-mono); }
+.ap-theme-cyber .ap-aside-price strong { color: var(--ap-accent); text-shadow: 0 0 18px rgba(34, 211, 238, 0.45); font-family: var(--ap-mono); }
+.ap-theme-cyber .ap-aside-coupon { font-family: var(--ap-mono); font-size: 0.8rem; border-radius: 6px; }
+.ap-theme-cyber .ap-aside-coupon code { background: none; border: 0; padding: 0; }
+.ap-theme-cyber .ap-aside-card .ap-aside-note { background: rgba(34, 211, 238, 0.06); border: 1px solid var(--ap-line); }
+
+/* 手机卡片表格的排名徽章 */
+@media (max-width: 700px) {
+    .ap-theme-cyber.ap-page .ap-rank-table table.ap-stack td:first-child::before { content: counter(ap-row, decimal-leading-zero); width: 30px; }
+    .ap-theme-cyber.ap-page table.ap-stack tr { background: rgba(13, 22, 40, 0.85); }
+}
