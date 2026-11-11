@@ -42,8 +42,6 @@ description: 深入讲解 Clash 代理工具的基础配置、节点测试、URL
 
 <div class="ap-links" markdown="1">
 
-- **[Clash 系列教程整合](https://clashwiki.blog/tag/clash/)**
-  *主要内容：涵盖多版本内核、规则分流的高阶玩法。*
 - **[Loon 客户端基础进阶教程](https://jichangmao.com/blog/ios-loon-guide/)**
   *主要内容：iOS 端 Loon 如何参考 Clash 逻辑进行配置。*
 - **[Quantumult X 进阶教程](https://jichangmao.com/blog/ios-quantumultx-guide/)**

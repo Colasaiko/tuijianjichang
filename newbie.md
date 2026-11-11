@@ -47,7 +47,6 @@ description: 面向完全零基础小白的 VPN 代理工具入门，科普节�
 - **[什么是订阅链接？](https://jichangmao.com/blog/what-is-subscription/)** - 教你如何把买到的节点一键导入软件。
 - **[什么是虚拟网卡 TUN？](https://jichangmao.com/blog/what-is-tun-mode/)** - 解决部分软件（如 Telegram / 游戏）不走代理的问题。
 - **[首次配置防坑指南](https://jichangmao.com/blog/first-time-proxy-guide/)** - 帮助你避开 90% 新手都会犯的错。
-- **[翻墙新手入门](https://clashwiki.blog/guides/)** - 另一份非常详细的新手综合指南。
 
 </div>
 
@@ -55,7 +54,6 @@ description: 面向完全零基础小白的 VPN 代理工具入门，科普节�
 
 <div class="ap-links" markdown="1">
 
-- **[网络排障与测速](https://clashwiki.blog/category/troubleshooting/)**
 - **[订阅故障与网络急救手册](https://vpn-clash.net/topics/troubleshooting)**
 
 </div>

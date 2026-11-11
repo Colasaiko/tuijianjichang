@@ -17,10 +17,6 @@ description: 持续维护的博客网络与学习资源库，囊括 AI、流媒�
 
 <div class="ap-links" markdown="1">
 
-- **[Clash Wiki](https://clashwiki.blog)**
-  *主要内容方向：Clash / VPN 基础教程、代理工具排障与 AI 专区。*
-  *推荐阅读场景：当你需要解决具体的客户端报错、或者寻找无缝访问 ChatGPT / Claude 的方法时。*
-
 - **[VPN Clash](https://vpn-clash.net)**
   *主要内容方向：深度网络加速场景分析（流媒体、外贸、AI）及 20 家服务商避坑横评。*
   *推荐阅读场景：当你需要深度研究行业内幕，不想踩坑买到劣质机场时。*
@@ -60,10 +56,6 @@ description: 持续维护的博客网络与学习资源库，囊括 AI、流媒�
 ## 🤖 场景专区导航
 
 <div class="ap-links" markdown="1">
-
-- **[ClashWiki · AI 工具专区](https://clashwiki.blog/category/ai-tools/)**
-  *主要内容方向：ChatGPT、Claude、Cursor、Perplexity 等 AI 工具的上手教程与横向对比，以及 AI 账号防封、原生 IP 节点选择和分流规则配置。*
-  *推荐阅读场景：想挑一款合适的 AI 工具、学习提示词写法，或者 AI 账号频繁被风控时。*
 
 - **[VPN Clash · ChatGPT 与 AI 工具无缝访问](https://vpn-clash.net/topics/ai)**
   *主要内容方向：ChatGPT 提示“Access Denied”的自救、Claude 防封养号、Midjourney 出图加速、海外 AI 注册收验证码与虚拟卡订阅，以及 Cursor / Copilot 编辑器走代理。*
