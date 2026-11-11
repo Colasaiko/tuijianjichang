@@ -904,6 +904,28 @@ img {
         margin: 0;
     }
     .ap-has-aside .ap-aside-card { position: sticky; top: 96px; }
+    /* 左侧推荐栏在这个宽度放不下，先排在页首下方 */
+    .ap-has-aside .ap-aside-left { position: static; width: auto; margin: 20px 0 8px; }
+    .ap-has-aside .ap-aside-left .ap-aside-card { position: static; }
+}
+
+/* 更宽的屏幕：左推荐栏 270px + 正文 + 右推荐栏 270px，三栏整体居中 */
+@media (min-width: 1400px) {
+    .main-content.ap-has-aside.ap-has-aside-left {
+        --ap-total: min(100vw - 48px, 1628px);
+        width: calc(var(--ap-total) - 588px);
+        margin-left: calc((100vw - var(--ap-total)) / 2 + 294px);
+    }
+    .ap-has-aside .ap-aside-left {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: auto;
+        right: calc(100% + 24px);
+        width: 270px;
+        margin: 0;
+    }
+    .ap-has-aside .ap-aside-left .ap-aside-card { position: sticky; top: 96px; }
 }
 
 /* ==========================================================================
