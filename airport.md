@@ -1,6 +1,6 @@
 ---
 layout: default
-page_class: ap-page
+page_class: ap-page ap-has-aside
 title: 2026机场推荐排行榜：稳定机场套餐与线路对比
 description: 2026机场推荐排行榜与选购指南，整理不同预算、流量与线路需求的稳定机场选择，对比IPLC/IEPL线路、AI与流媒体支持、套餐价格、设备限制及使用场景。
 ---
@@ -14,6 +14,24 @@ description: 2026机场推荐排行榜与选购指南，整理不同预算、流
 > **说明：** 本页部分注册链接属于推广链接。套餐价格、优惠码、节点和线路可能随时间调整，下单前请以对应购买页面的实时信息为准。本站不把“最便宜”直接等同于“最好”，也不做脱离使用场景的绝对排名。
 
 </div>
+
+<aside class="ap-aside" aria-label="新机场推荐：飞V">
+<div class="ap-aside-card">
+<p class="ap-aside-badge">🆕 新机场推荐</p>
+<p class="ap-aside-name">飞V <span>FlyV</span></p>
+<p class="ap-aside-lead">全链路专线加原生 IP，港台日新走 IEPL / IPLC。AI 和流媒体都能直接用，一键登录即可连接，新手也能轻松上手。</p>
+<p class="ap-aside-price">每月约 <strong>¥8.25</strong></p>
+<p class="ap-aside-coupon">年付轻量版 ¥99 / 年 · 每月 65GB 流量</p>
+<ul>
+<li>全节点 1x 计费，用多少扣多少</li>
+<li>ChatGPT、Claude、GitHub Copilot 都支持</li>
+<li>Netflix、Abema、TVer 等流媒体可看</li>
+</ul>
+<a class="ap-aside-cta" href="https://varnexa.flyvaff.com/#/?code=6ae5FH9i" target="_blank" rel="sponsored noopener">前往飞V官网 →</a>
+<a class="ap-aside-more" href="#feiv">查看飞V完整套餐与价格</a>
+<p class="ap-aside-note">🛡️ 担心新机场跑路？飞V官方承诺长期运营、不跑路，可以放心入手。新机场用户还不多，线路比较空闲，网速通常也更有余量。</p>
+</div>
+</aside>
 
 <div class="ap-toc" markdown="1">
 
@@ -55,17 +73,17 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 <div class="ap-table ap-rank-table" markdown="1">
 
-| 品牌 | 入门月付方案 | 月流量 | 优惠信息 | 清单中标注的主要特点 |
+| 品牌 | 入门月付方案 | 月流量 | 优惠信息 | 主要优势 |
 |---|---:|---:|---|---|
-| [微风网络](https://edp01.breezenetaff.com/#/?code=6ehSdfxw) | ¥25 | 200GB | `weifeng90` 9折 | IPLC、设备数不限、标注不限速 |
-| [暮光加速](https://varnexa.twilightaff.com/#/?code=1eGqV85O) | ¥20 | 120GB | `mm88` 8折 | BGP 调度+专线出口、流媒体、ChatGPT/Claude |
-| [飞V](https://varnexa.flyvaff.com/#/?code=6ae5FH9i) | ¥25 | 150GB | `fly20` 8折（新用户首单） | 港台日新 IEPL/IPLC 专线、官方客户端登录即用、不限设备 |
-| [浪网 WaveNet](https://varnexa.wavenetaff.com/#/?code=pcFhy7Lb) | ¥30 | 150GB | `lw888` 8折（新用户） | 全节点 IEPL 专线、1x 倍率、官方客户端一键登录、Netflix 与 ChatGPT/Claude |
-| [灵动云](https://varnexa.lingdongaff.com/#/?code=TIMwZeIR) | ¥20 | 100GB | `ld888` 8折 | 纯专线+BGP 三网优化、支持订阅导入、ChatGPT/Claude |
-| [隐形人](https://varnexa.invisibleaff.com/#/?code=8jyAXfu3) | ¥24 | 144GB | `yxr888` 8折 | IEPL 专线、不限设备、Abema/TVer 与 GitHub Copilot |
-| [Firefly](https://vip02.fireflyaff.com/#/?code=mcYQUZxG) | ¥25 | 150GB | `firefly` 8折 | IPLC、不限设备数、标注不限速 |
-| [无忧链接](https://wep01.worryfreeaff.com/#/?code=ydtFVWqU) | ¥19 | 100GB | `wuyou666` 8折 | 全 IPLC、1x 倍率、ChatGPT/Gemini 与流媒体 |
-| [Sogo 云](https://wzjc.sogoyunaff.cc/#/?code=JvxcPy2A) | ¥25 | 150GB | `sogo10000` 9折 | VLESS、IEPL、三网优化、流媒体与 AI 支持 |
+| [微风网络](https://edp01.breezenetaff.com/#/?code=6ehSdfxw) | ¥25 | 200GB | `weifeng90` 9折 | IPLC 专线、不限设备、不限速，大流量单价低 |
+| [暮光加速](https://varnexa.twilightaff.com/#/?code=1eGqV85O) | ¥20 | 120GB | `mm88` 8折 | BGP 智能调度+专线出口、不限设备，流媒体与 ChatGPT/Claude 全支持 |
+| [飞V](https://varnexa.flyvaff.com/#/?code=6ae5FH9i) | ¥25 | 150GB | `fly20` 8折（新用户首单） | 全链路专线+原生 IP、港台日新 IEPL/IPLC、不限设备，AI 与流媒体全支持 |
+| [浪网 WaveNet](https://varnexa.wavenetaff.com/#/?code=pcFhy7Lb) | ¥30 | 150GB | `lw888` 8折（新用户） | 全节点 IEPL 专线、1x 倍率不限速，Netflix 与 ChatGPT/Claude 全支持 |
+| [灵动云](https://varnexa.lingdongaff.com/#/?code=TIMwZeIR) | ¥20 | 100GB | `ld888` 8折 | 纯专线+BGP 三网优化、晚高峰不限速，原生纯净 IP 稳定用 ChatGPT/Claude |
+| [隐形人](https://varnexa.invisibleaff.com/#/?code=8jyAXfu3) | ¥24 | 144GB | `yxr888` 8折 | IEPL 专线、不限设备，Abema/TVer 与 GitHub Copilot 全支持 |
+| [Firefly](https://vip02.fireflyaff.com/#/?code=mcYQUZxG) | ¥25 | 150GB | `firefly` 8折 | IPLC 专线、不限设备、不限速，流量档位齐全 |
+| [无忧链接](https://wep01.worryfreeaff.com/#/?code=ydtFVWqU) | ¥19 | 100GB | `wuyou666` 8折 | 全 IPLC 专线、1x 倍率，ChatGPT/Gemini 与流媒体全支持 |
+| [Sogo 云](https://wzjc.sogoyunaff.cc/#/?code=JvxcPy2A) | ¥25 | 150GB | `sogo10000` 9折 | IEPL 专线、三网优化，AI 全支持、流媒体全面解锁 |
 
 </div>
 
