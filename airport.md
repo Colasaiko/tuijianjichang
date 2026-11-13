@@ -156,7 +156,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - [机场猫：如何挑选机场节点](https://jichangmao.com/blog/how-to-choose-an-airport-guide/)：适合继续了解节点选择逻辑。
 - [VPN Clash 服务商档案库](https://vpn-clash.net/brands)：适合查看更多品牌信息。
 - [RunAi 如何使用国外AI工具](https://runainav.com/guides)：可以查看更多AI使用方法。
-- [好机场：网络知识库](https://bestjichang.com/blog/)：适合继续阅读单品牌体验。
+- 好机场：网络知识库：适合继续阅读单品牌体验。
 
 ## 📌 页面更新原则
 

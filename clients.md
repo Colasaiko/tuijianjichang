@@ -32,7 +32,7 @@ Mac 用户通常追求界面的优雅与系统的低资源占用。
 
 - **[macOS 客户端推荐 / Clash Verge Rev](https://jichangmao.com/blog/mac-clash-verge-rev-guide/)**
   *简介：目前 Mac 平台首选的开源免费 Clash 客户端，基于 Tauri 框架，性能极佳，支持最新的 Mihomo 内核，强烈推荐。*
-- **[Mac 网络客户端怎么选？Clash Verge Rev、sing-box 和 Stash 对比](https://bestjichang.com/blog/mac-client-comparison/)**
+- **Mac 网络客户端怎么选？Clash Verge Rev、sing-box 和 Stash 对比**
   *简介：深度横向对比，帮助你了解不同代理内核（sing-box/Clash）的区别，适合进阶用户。*
 
 </div>
