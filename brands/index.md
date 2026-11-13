@@ -297,7 +297,7 @@ description: 2026年11月机场品牌资料统计，整理飞猫云、灵猫、�
 - 年付 85 折｜两年付 8 折｜三年付 75 折 优惠长期有效
 - 全球节点覆盖：
 
-**💻 客户端下载：** [前往官网下载](https://bcbhk40y.ztymforedge.lol/#/?code=etUBOp4S)（注册后可在官网内下载）
+**💻 客户端下载：** [前往官网下载](https://work.edgenovaaff.cc/#/?code=etUBOp4S)（注册后可在官网内下载）
 
 **💰 套餐价格参考：**
 
@@ -333,7 +333,7 @@ description: 2026年11月机场品牌资料统计，整理飞猫云、灵猫、�
 - 客服全天在线指导
 - 香港x20、台湾x10、日本x10、新加坡x10、美国x10、马来西亚x2、英国x1、德国x1、法国x1、泰国x1、菲律宾x1、印度x1，需要其他节点请客服咨询
 
-**💻 客户端下载：** [前往官网下载](https://j3gncnh.tzztssuujj.xyz/#/?code=q1enwrOd)（注册后可在官网内下载）
+**💻 客户端下载：** [前往官网下载](https://work.speedworldaff.cc/#/?code=q1enwrOd)（注册后可在官网内下载）
 
 **💰 套餐价格参考：**
 
@@ -368,7 +368,7 @@ description: 2026年11月机场品牌资料统计，整理飞猫云、灵猫、�
 - 长期优惠：年付 8 折｜两年付 7 折｜三年付 6 折。
 - 节点覆盖：香港×20、台湾×5、日本×10、新加坡×10、美国×10、马来西亚×2、英国、法国、德国、土耳其、泰国、巴西等
 
-**💻 客户端下载：** [前往官网下载](https://iasfasf.kuailitztz2.xyz/#/?code=9RhZkrkV)（注册后可在官网内下载）
+**💻 客户端下载：** [前往官网下载](https://work.kuailicloud.cc/#/?code=9RhZkrkV)（注册后可在官网内下载）
 
 **💰 套餐价格参考：**
 
@@ -617,7 +617,7 @@ description: 2026年11月机场品牌资料统计，整理飞猫云、灵猫、�
 - 半年 / 年付优惠
 - 在线客服售后保障
 
-**💻 客户端下载：** [macOS 客户端](https://res.bbneostat.com/download/v/macos/bitz-164.pkg)
+**💻 客户端下载：** [前往官网下载](https://red.bnaffred.com/#/register?code=8Hqeq4XA)（注册后可在官网内下载）
 
 **💰 套餐价格参考：**
 
