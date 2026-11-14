@@ -830,7 +830,7 @@ img {
 .ap-footer-nav td { display: block; padding: 0; border: 0; background: none !important; }
 .ap-footer-nav td:empty { display: none; }
 
-/* 机场页推荐卡片（page_class 加 ap-has-aside）：宽屏放在正文左右两侧，窄屏变成页首下方的「快速购买」小卡片 */
+/* 机场页推荐卡片（page_class 加 ap-has-aside）：宽屏放在正文左右两侧，平板是页首下方的「快速购买」小卡片，手机不显示 */
 .ap-aside-card {
     background: linear-gradient(160deg, var(--ap-hero-from), var(--ap-surface-raised));
     border: 1px solid var(--ap-line);
@@ -884,7 +884,7 @@ img {
     border-radius: 10px;
 }
 
-/* 窄屏：四张卡片排成 2×2（平板一排 4 张），只留名称、价格和购买按钮，详细介绍在下方品牌卡片 */
+/* 平板和小屏电脑：四张卡片排成一排，只留名称、价格和购买按钮，详细介绍在下方品牌卡片 */
 .ap-quickbuy {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -911,23 +911,22 @@ img {
 .ap-quickbuy .ap-aside-card .ap-aside-note { display: none; }
 .ap-quickbuy .ap-aside-cta { margin-top: auto; min-height: 40px; font-size: 0.9rem; border-radius: 10px; }
 .ap-quickbuy .ap-aside-more { font-size: 0.76rem; margin: 6px 0 0; }
-/* 手机上再收紧：价格行已经写了折扣，优惠码说明和「查看完整套餐」先不显示 */
+/* 手机上不显示推荐卡片，读者直接看正文 */
 @media (max-width: 639px) {
-    .ap-quickbuy .ap-aside-coupon,
-    .ap-quickbuy .ap-aside-more { display: none; }
+    .ap-quickbuy { display: none; }
 }
 @media (min-width: 640px) {
     .ap-quickbuy { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 }
 
-/* 宽屏：左栏 270px + 正文 + 右栏 270px 整体居中，两侧各放两张完整卡片，随页面滚动吸顶 */
-@media (min-width: 1400px) {
+/* 宽屏：左栏 250px + 正文 + 右栏 250px 整体居中，两侧各放两张完整卡片，随页面滚动吸顶 */
+@media (min-width: 1280px) {
     .main-content.ap-has-aside {
-        --ap-total: min(100vw - 48px, 1628px);
+        --ap-total: min(100vw - 48px, 1580px);
         position: relative;
-        width: calc(var(--ap-total) - 588px);
+        width: calc(var(--ap-total) - 540px);
         max-width: none;
-        margin-left: calc((100vw - var(--ap-total)) / 2 + 294px);
+        margin-left: calc((100vw - var(--ap-total)) / 2 + 270px);
         margin-right: auto;
     }
     .ap-has-aside .ap-quickbuy { display: block; margin: 0; }
@@ -937,10 +936,10 @@ img {
         position: absolute;
         top: 0;
         bottom: 0;
-        left: calc(100% + 24px);
-        width: 270px;
+        left: calc(100% + 20px);
+        width: 250px;
     }
-    .ap-has-aside .ap-quickbuy .ap-aside-left { left: auto; right: calc(100% + 24px); }
+    .ap-has-aside .ap-quickbuy .ap-aside-left { left: auto; right: calc(100% + 20px); }
     .ap-has-aside .ap-quickbuy .ap-aside-stack {
         display: flex;
         flex-direction: column;
