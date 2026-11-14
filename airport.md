@@ -15,8 +15,11 @@ description: 2026机场推荐排行榜与选购指南，整理不同预算、流
 
 </div>
 
-<aside class="ap-aside" aria-label="新机场推荐：飞V">
-<div class="ap-aside-card">
+<div class="ap-quickbuy">
+<p class="ap-quickbuy-title">⚡ 快速购买</p>
+<aside class="ap-aside" aria-label="推荐机场：飞V、浪网">
+<div class="ap-aside-stack">
+<div class="ap-aside-card ap-pick-feiv">
 <p class="ap-aside-badge">🆕 新机场推荐</p>
 <p class="ap-aside-name">飞V <span>FlyV</span></p>
 <p class="ap-aside-lead">全链路专线加原生 IP，港台日新走 IEPL / IPLC。AI 和流媒体都能直接用，一键登录即可连接，新手也能轻松上手。</p>
@@ -31,10 +34,25 @@ description: 2026机场推荐排行榜与选购指南，整理不同预算、流
 <a class="ap-aside-more" href="#feiv">查看飞V完整套餐与价格</a>
 <p class="ap-aside-note">🛡️ 担心新机场跑路？飞V官方承诺长期运营、不跑路，可以放心入手。新机场用户还不多，线路比较空闲，网速通常也更有余量。</p>
 </div>
+<div class="ap-aside-card ap-pick-wavenet">
+<p class="ap-aside-badge">💎 高端之选</p>
+<p class="ap-aside-name">浪网 <span>WaveNet</span></p>
+<p class="ap-aside-lead">全节点 IEPL 专线，60 个节点覆盖港台日新美，1x 倍率不限速，适合追求稳定和速度的人。</p>
+<p class="ap-aside-price">新人 6 折 · 每月 <strong>¥18</strong> 起</p>
+<p class="ap-aside-coupon">入门 150GB 月付 ¥30 · 用 <code>lw888</code> 6折</p>
+<ul>
+<li>高端 800GB 月付 ¥120，6 折后只要 ¥72</li>
+<li>Netflix、Disney+、ChatGPT、Claude 都支持</li>
+<li>新用户每个账号限用一次，可叠加长周期折扣</li>
+</ul>
+<a class="ap-aside-cta" href="https://varnexa.wavenetaff.com/#/?code=pcFhy7Lb" target="_blank" rel="sponsored noopener">前往浪网官网 →</a>
+<a class="ap-aside-more" href="#wavenet">查看浪网完整套餐与价格</a>
+</div>
+</div>
 </aside>
-
-<aside class="ap-aside ap-aside-left" aria-label="实用之选：微风网络">
-<div class="ap-aside-card">
+<aside class="ap-aside ap-aside-left" aria-label="推荐机场：微风网络、暮光加速">
+<div class="ap-aside-stack">
+<div class="ap-aside-card ap-pick-weifeng">
 <p class="ap-aside-badge">💡 实用之选</p>
 <p class="ap-aside-name">微风网络 <span>Breeze</span></p>
 <p class="ap-aside-lead">IPLC 专线，不限设备、不限速。手机、电脑、平板一起连，日常追剧、开会、用 AI 一个套餐就够。</p>
@@ -48,7 +66,23 @@ description: 2026机场推荐排行榜与选购指南，整理不同预算、流
 <a class="ap-aside-cta" href="https://edp01.breezenetaff.com/#/?code=6ehSdfxw" target="_blank" rel="sponsored noopener">前往微风官网 →</a>
 <a class="ap-aside-more" href="#weifeng">查看微风完整套餐与价格</a>
 </div>
+<div class="ap-aside-card ap-pick-muguang">
+<p class="ap-aside-badge">🎬 追剧之选</p>
+<p class="ap-aside-name">暮光加速</p>
+<p class="ap-aside-lead">BGP 智能调度加专线出口，Netflix、Disney+、HBO 都能看，ChatGPT、Claude 也能稳定用。不限设备数，一家人一起追剧也够。</p>
+<p class="ap-aside-price">每月约 <strong>¥16</strong></p>
+<p class="ap-aside-coupon">基础版 120GB 月付 ¥20 · 用 <code>mm88</code> 8折</p>
+<ul>
+<li>全节点 1x 计费，不限速</li>
+<li>4K 即点即播，支持 8K 资源</li>
+<li>用得少可选年付轻量版，70GB ¥109 / 年</li>
+</ul>
+<a class="ap-aside-cta" href="https://varnexa.twilightaff.com/#/?code=1eGqV85O" target="_blank" rel="sponsored noopener">前往暮光官网 →</a>
+<a class="ap-aside-more" href="#muguang">查看暮光完整套餐与价格</a>
+</div>
+</div>
 </aside>
+</div>
 
 <div class="ap-toc" markdown="1">
 
@@ -95,7 +129,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 | [微风网络](https://edp01.breezenetaff.com/#/?code=6ehSdfxw) | ¥25 | 200GB | `weifeng90` 9折 | IPLC 专线、不限设备、不限速，大流量单价低 |
 | [暮光加速](https://varnexa.twilightaff.com/#/?code=1eGqV85O) | ¥20 | 120GB | `mm88` 8折 | BGP 智能调度+专线出口、不限设备，流媒体与 ChatGPT/Claude 全支持 |
 | [飞V](https://varnexa.flyvaff.com/#/?code=6ae5FH9i) | ¥25 | 150GB | `fly20` 8折（新用户首单） | 全链路专线+原生 IP、港台日新 IEPL/IPLC、不限设备，AI 与流媒体全支持 |
-| [浪网 WaveNet](https://varnexa.wavenetaff.com/#/?code=pcFhy7Lb) | ¥30 | 150GB | `lw888` 8折（新用户） | 全节点 IEPL 专线、1x 倍率不限速，Netflix 与 ChatGPT/Claude 全支持 |
+| [浪网 WaveNet](https://varnexa.wavenetaff.com/#/?code=pcFhy7Lb) | ¥30 | 150GB | `lw888` 6折（新用户） | 全节点 IEPL 专线、1x 倍率不限速，Netflix 与 ChatGPT/Claude 全支持 |
 | [灵动云](https://varnexa.lingdongaff.com/#/?code=TIMwZeIR) | ¥20 | 100GB | `ld888` 8折 | 纯专线+BGP 三网优化、晚高峰不限速，原生纯净 IP 稳定用 ChatGPT/Claude |
 | [隐形人](https://varnexa.invisibleaff.com/#/?code=8jyAXfu3) | ¥24 | 144GB | `yxr888` 8折 | IEPL 专线、不限设备，Abema/TVer 与 GitHub Copilot 全支持 |
 | [Firefly](https://vip02.fireflyaff.com/#/?code=mcYQUZxG) | ¥25 | 150GB | `firefly` 8折 | IPLC 专线、不限设备、不限速，流量档位齐全 |
@@ -289,7 +323,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 **👉 [前往 浪网 官网注册](https://varnexa.wavenetaff.com/#/?code=pcFhy7Lb)**
 
-**🎁 专属优惠：** `lw888（8折）`（新用户每个账号限用一次，可与长周期折扣叠加；不适用于年付标准、一次性流量包和定制线路包）
+**🎁 专属优惠：** `lw888（6折）`（新用户每个账号限用一次，可与长周期折扣叠加；不适用于年付标准、一次性流量包和定制线路包）
 
 **适合关注这个品牌的人：**
 面向流媒体、AI、办公和跨境业务，全节点 IEPL 专线，希望用官方客户端一键登录、不想自己配置订阅的用户可以重点看。
