@@ -150,12 +150,12 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ## 🔎 更多品牌与深度评测
 
-本站会继续补充自己的套餐对比和选购内容。如果你还需要测速、单品牌体验或更完整的服务商档案，可以继续参考这些外部资料：
+本站会继续补充自己的套餐对比和选购内容。如果你还需要测速、单品牌体验或更完整的服务商档案，可以继续参考这些资料：
 
-- [JichangBay 套餐选购与价格对比](https://jichangbay.com/)：适合继续比较套餐、流量和价格。
-- [机场猫：如何挑选机场节点](https://jichangmao.com/blog/how-to-choose-an-airport-guide/)：适合继续了解节点选择逻辑。
-- [VPN Clash 服务商档案库](https://vpn-clash.net/brands)：适合查看更多品牌信息。
-- [RunAi 如何使用国外AI工具](https://runainav.com/guides)：可以查看更多AI使用方法。
+- [套餐选购与价格对比](#-常见套餐快速对比)：适合继续比较套餐、流量和价格。
+- [新手教程：如何挑选机场节点](https://colasaiko.github.io/NewbieRead/05-%E6%96%B0%E6%89%8B%E6%80%BB%E7%BB%93.html#how-to-choose)：适合继续了解节点选择逻辑。
+- [本站服务商档案库](/tuijianjichang/brands/)：适合查看更多品牌信息。
+- [新手教程：如何使用国外AI工具](https://colasaiko.github.io/NewbieRead/04-IP%E4%BB%8B%E7%BB%8D.html#ai)：可以查看更多AI使用方法。
 - 好机场：网络知识库：适合继续阅读单品牌体验。
 
 ## 📌 页面更新原则

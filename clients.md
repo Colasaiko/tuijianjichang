@@ -19,7 +19,7 @@ Windows 平台拥有最丰富的代理工具生态，适合办公、游戏等复
 
 <div class="ap-links" markdown="1">
 
-- **[Windows 客户端推荐 / v2rayN](https://jichangmao.com/blog/windows-v2rayn-guide/)**
+- **[Windows 客户端推荐 / v2rayN](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#v2rayn)**
   *简介：老牌经典的 V2Ray 客户端。界面稍显极客，但功能极其强大，适合有一定基础的用户日常使用。*
 
 </div>
@@ -30,7 +30,7 @@ Mac 用户通常追求界面的优雅与系统的低资源占用。
 
 <div class="ap-links" markdown="1">
 
-- **[macOS 客户端推荐 / Clash Verge Rev](https://jichangmao.com/blog/mac-clash-verge-rev-guide/)**
+- **[macOS 客户端推荐 / Clash Verge Rev](https://colasaiko.github.io/Clash-/01-Clash%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE.html)**
   *简介：目前 Mac 平台首选的开源免费 Clash 客户端，基于 Tauri 框架，性能极佳，支持最新的 Mihomo 内核，强烈推荐。*
 - **Mac 网络客户端怎么选？Clash Verge Rev、sing-box 和 Stash 对比**
   *简介：深度横向对比，帮助你了解不同代理内核（sing-box/Clash）的区别，适合进阶用户。*
@@ -43,13 +43,13 @@ Mac 用户通常追求界面的优雅与系统的低资源占用。
 
 <div class="ap-links" markdown="1">
 
-- **[iOS 客户端推荐 / Shadowrocket (小火箭)](https://jichangmao.com/blog/shadowrocket-guide/)**
+- **[iOS 客户端推荐 / Shadowrocket (小火箭)](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#shadowrocket)**
   *简介：iOS 端性价比最高、最著名的代理工具。支持极多协议，适合绝大多数普通用户的日常番剧与网页浏览。*
-- **[Loon 客户端教程](https://jichangmao.com/blog/ios-loon-guide/)**
+- **[Loon 客户端教程](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#loon)**
   *简介：UI 精美的轻量级高阶代理工具，支持插件与脚本。*
-- **[Quantumult X 教程](https://jichangmao.com/blog/ios-quantumultx-guide/)**
+- **[Quantumult X 教程](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#quantumult-x)**
   *简介：进阶玩家的首选（俗称“圈X”），强大的重写和任务机制。*
-- **[Surge 教程](https://jichangmao.com/blog/ios-surge-guide/)**
+- **[Surge 教程](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#surge)**
   *简介：iOS/Mac 生态下最强大、价格也最昂贵的顶级网络开发/代理工具。*
 
 </div>
@@ -60,7 +60,7 @@ Android 生态开放，有很多免费且优秀的开源选择。
 
 <div class="ap-links" markdown="1">
 
-- **[Android 客户端推荐 / v2rayNG](https://jichangmao.com/blog/v2rayng-guide/)**
+- **[Android 客户端推荐 / v2rayNG](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#v2rayn)**
   *简介：安卓平台最普及的代理客户端。操作简单直接，复制节点链接即可使用。*
 
 </div>

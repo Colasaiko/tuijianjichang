@@ -42,11 +42,11 @@ description: 面向完全零基础小白的 VPN 代理工具入门，科普节�
 
 <div class="ap-links" markdown="1">
 
-- **[什么是机场？](https://jichangmao.com/blog/what-is-airport-proxy/)** - 了解提供网络节点的服务商。
-- **[什么是节点？](https://jichangmao.com/blog/what-is-node/)** - 你购买的那个“服务器”到底长什么样。
-- **[什么是订阅链接？](https://jichangmao.com/blog/what-is-subscription/)** - 教你如何把买到的节点一键导入软件。
-- **[什么是虚拟网卡 TUN？](https://jichangmao.com/blog/what-is-tun-mode/)** - 解决部分软件（如 Telegram / 游戏）不走代理的问题。
-- **[首次配置防坑指南](https://jichangmao.com/blog/first-time-proxy-guide/)** - 帮助你避开 90% 新手都会犯的错。
+- **[什么是机场？](https://colasaiko.github.io/NewbieRead/01-%E6%96%B0%E6%89%8B%E5%BC%80%E5%A4%B4.html#what-is-airport)** - 了解提供网络节点的服务商。
+- **[什么是节点？](https://colasaiko.github.io/NewbieRead/01-%E6%96%B0%E6%89%8B%E5%BC%80%E5%A4%B4.html#node)** - 你购买的那个“服务器”到底长什么样。
+- **[什么是订阅链接？](https://colasaiko.github.io/NewbieRead/01-%E6%96%B0%E6%89%8B%E5%BC%80%E5%A4%B4.html#subscription)** - 教你如何把买到的节点一键导入软件。
+- **[什么是虚拟网卡 TUN？](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#tun)** - 解决部分软件（如 Telegram / 游戏）不走代理的问题。
+- **[首次配置防坑指南](https://colasaiko.github.io/NewbieRead/05-%E6%96%B0%E6%89%8B%E6%80%BB%E7%BB%93.html#pitfalls)** - 帮助你避开 90% 新手都会犯的错。
 
 </div>
 
@@ -54,7 +54,7 @@ description: 面向完全零基础小白的 VPN 代理工具入门，科普节�
 
 <div class="ap-links" markdown="1">
 
-- **[订阅故障与网络急救手册](https://vpn-clash.net/topics/troubleshooting)**
+- **[订阅故障与网络急救手册](https://colasaiko.github.io/NewbieRead/06-FAQ%E5%92%8C%E5%A4%A7%E6%80%BB%E7%BB%93.html#troubleshooting)**
 
 </div>
 

@@ -42,11 +42,11 @@ description: 深入讲解 Clash 代理工具的基础配置、节点测试、URL
 
 <div class="ap-links" markdown="1">
 
-- **[Loon 客户端基础进阶教程](https://jichangmao.com/blog/ios-loon-guide/)**
+- **[Loon 客户端基础进阶教程](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#loon)**
   *主要内容：iOS 端 Loon 如何参考 Clash 逻辑进行配置。*
-- **[Quantumult X 进阶教程](https://jichangmao.com/blog/ios-quantumultx-guide/)**
+- **[Quantumult X 进阶教程](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#quantumult-x)**
   *主要内容：圈X 的策略组配置。*
-- **[Surge 进阶教程](https://jichangmao.com/blog/ios-surge-guide/)**
+- **[Surge 进阶教程](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#surge)**
   *主要内容：Mac/iOS 顶级网络工具 Surge 的快速上手。*
 
 </div>
