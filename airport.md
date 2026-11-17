@@ -1,6 +1,6 @@
 ---
 layout: default
-page_class: ap-page ap-has-aside ap-has-aside-left ap-theme-cyber
+page_class: ap-page ap-theme-cyber
 title: 2026机场推荐排行榜：稳定机场套餐与线路对比
 description: 2026机场推荐排行榜与选购指南，整理不同预算、流量与线路需求的稳定机场选择，对比IPLC/IEPL线路、AI与流媒体支持、套餐价格、设备限制及使用场景。
 ---
@@ -13,75 +13,6 @@ description: 2026机场推荐排行榜与选购指南，整理不同预算、流
 
 > **说明：** 本页部分注册链接属于推广链接。套餐价格、优惠码、节点和线路可能随时间调整，下单前请以对应购买页面的实时信息为准。本站不把“最便宜”直接等同于“最好”，也不做脱离使用场景的绝对排名。
 
-</div>
-
-<div class="ap-quickbuy">
-<p class="ap-quickbuy-title">⚡ 快速购买</p>
-<aside class="ap-aside" aria-label="推荐机场：飞V、浪网">
-<div class="ap-aside-stack">
-<div class="ap-aside-card ap-pick-feiv">
-<p class="ap-aside-badge">🆕 新机场推荐</p>
-<p class="ap-aside-name">飞V <span>FlyV</span></p>
-<p class="ap-aside-lead">全链路专线加原生 IP，港台日新走 IEPL / IPLC。AI 和流媒体都能直接用，一键登录即可连接，新手也能轻松上手。</p>
-<p class="ap-aside-price">每月约 <strong>¥8.25</strong></p>
-<p class="ap-aside-coupon">年付轻量版 ¥99 / 年 · 每月 65GB 流量</p>
-<ul>
-<li>全节点 1x 计费，用多少扣多少</li>
-<li>ChatGPT、Claude、GitHub Copilot 都支持</li>
-<li>Netflix、Abema、TVer 等流媒体可看</li>
-</ul>
-<a class="ap-aside-cta" href="https://varnexa.flyvaff.com/#/?code=6ae5FH9i" target="_blank" rel="sponsored noopener">前往飞V官网 →</a>
-<a class="ap-aside-more" href="#feiv">查看飞V完整套餐与价格</a>
-<p class="ap-aside-note">🛡️ 担心新机场跑路？飞V官方承诺长期运营、不跑路，可以放心入手。新机场用户还不多，线路比较空闲，网速通常也更有余量。</p>
-</div>
-<div class="ap-aside-card ap-pick-wavenet">
-<p class="ap-aside-badge">💎 高端之选</p>
-<p class="ap-aside-name">浪网 <span>WaveNet</span></p>
-<p class="ap-aside-lead">全节点 IEPL 专线，60 个节点覆盖港台日新美，1x 倍率不限速，适合追求稳定和速度的人。</p>
-<p class="ap-aside-price">新人 6 折 · 每月 <strong>¥18</strong> 起</p>
-<p class="ap-aside-coupon">入门 150GB 月付 ¥30 · 用 <code>lw888</code> 6折</p>
-<ul>
-<li>高端 800GB 月付 ¥120，6 折后只要 ¥72</li>
-<li>Netflix、Disney+、ChatGPT、Claude 都支持</li>
-<li>新用户每个账号限用一次，可叠加长周期折扣</li>
-</ul>
-<a class="ap-aside-cta" href="https://varnexa.wavenetaff.com/#/?code=pcFhy7Lb" target="_blank" rel="sponsored noopener">前往浪网官网 →</a>
-<a class="ap-aside-more" href="#wavenet">查看浪网完整套餐与价格</a>
-</div>
-</div>
-</aside>
-<aside class="ap-aside ap-aside-left" aria-label="推荐机场：微风网络、暮光加速">
-<div class="ap-aside-stack">
-<div class="ap-aside-card ap-pick-weifeng">
-<p class="ap-aside-badge">💡 实用之选</p>
-<p class="ap-aside-name">微风网络 <span>Breeze</span></p>
-<p class="ap-aside-lead">IPLC 专线，不限设备、不限速。手机、电脑、平板一起连，日常追剧、开会、用 AI 一个套餐就够。</p>
-<p class="ap-aside-price">每月约 <strong>¥22.5</strong></p>
-<p class="ap-aside-coupon">乘风 200GB 月付 ¥25 · 用 <code>weifeng90</code> 9折</p>
-<ul>
-<li>月付先用一个月，满意再续</li>
-<li>流量不够随时升级：500GB ¥55 / 月、1200GB ¥125 / 月</li>
-<li>用得少可选不限时流量包，100GB 一次性 ¥100</li>
-</ul>
-<a class="ap-aside-cta" href="https://edp01.breezenetaff.com/#/?code=6ehSdfxw" target="_blank" rel="sponsored noopener">前往微风官网 →</a>
-<a class="ap-aside-more" href="#weifeng">查看微风完整套餐与价格</a>
-</div>
-<div class="ap-aside-card ap-pick-muguang">
-<p class="ap-aside-badge">🎬 追剧之选</p>
-<p class="ap-aside-name">暮光加速</p>
-<p class="ap-aside-lead">BGP 智能调度加专线出口，Netflix、Disney+、HBO 都能看，ChatGPT、Claude 也能稳定用。不限设备数，一家人一起追剧也够。</p>
-<p class="ap-aside-price">每月约 <strong>¥16</strong></p>
-<p class="ap-aside-coupon">基础版 120GB 月付 ¥20 · 用 <code>mm88</code> 8折</p>
-<ul>
-<li>全节点 1x 计费，不限速</li>
-<li>4K 即点即播，支持 8K 资源</li>
-<li>用得少可选年付轻量版，70GB ¥109 / 年</li>
-</ul>
-<a class="ap-aside-cta" href="https://varnexa.twilightaff.com/#/?code=1eGqV85O" target="_blank" rel="sponsored noopener">前往暮光官网 →</a>
-<a class="ap-aside-more" href="#muguang">查看暮光完整套餐与价格</a>
-</div>
-</div>
-</aside>
 </div>
 
 <div class="ap-toc" markdown="1">
@@ -133,7 +64,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 | [灵动云](https://varnexa.lingdongaff.com/#/?code=TIMwZeIR) | ¥20 | 100GB | `ld888` 8折 | 纯专线+BGP 三网优化、晚高峰不限速，原生纯净 IP 稳定用 ChatGPT/Claude |
 | [隐形人](https://varnexa.invisibleaff.com/#/?code=8jyAXfu3) | ¥24 | 144GB | `yxr888` 8折 | IEPL 专线、不限设备，Abema/TVer 与 GitHub Copilot 全支持 |
 | [Firefly](https://vip02.fireflyaff.com/#/?code=mcYQUZxG) | ¥25 | 150GB | `firefly` 8折 | IPLC 专线、不限设备、不限速，流量档位齐全 |
-| [无忧链接](https://wep01.worryfreeaff.com/#/?code=ydtFVWqU) | ¥19 | 100GB | `wuyou666` 8折 | 全 IPLC 专线、1x 倍率，ChatGPT/Gemini 与流媒体全支持 |
+| [无忧链接](https://wep01.worryfreeaff.com/#/?code=ydtFVWqU) | ¥25 | 160GB | `wuyou666` 8折 | 全 IPLC 专线、1x 倍率，ChatGPT/Gemini 与流媒体全支持 |
 | [Sogo 云](https://wzjc.sogoyunaff.cc/#/?code=JvxcPy2A) | ¥25 | 150GB | `sogo10000` 9折 | IEPL 专线、三网优化，AI 全支持、流媒体全面解锁 |
 
 </div>
@@ -143,7 +74,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 10～20 元区间：先看流量和线路需求
 
-无忧链接舒心链接为 100GB / ¥19，用 `wuyou666` 后约 ¥15.2；灵动云拂风为 100GB / ¥20；暮光加速基础版为 120GB / ¥20；飞V 入门方案为 150GB / ¥25，新用户用 `fly20` 后约 ¥20。如果能接受年付，微风网络清风 100GB / 年付 ¥99，折合每月约 ¥8.25。这个价位的差别已经不只是“多几十 GB”，还包括各家对线路、设备数量、流媒体与 AI 支持的不同说明。
+无忧链接舒心链接为 160GB / ¥25，用 `wuyou666` 后约 ¥20；灵动云拂风为 100GB / ¥20；暮光加速基础版为 120GB / ¥20；飞V 入门方案为 150GB / ¥25，新用户用 `fly20` 后约 ¥20。如果能接受年付，微风网络清风 60GB / 年付 ¥99，折合每月约 ¥8.25。这个价位的差别已经不只是“多几十 GB”，还包括各家对线路、设备数量、流媒体与 AI 支持的不同说明。
 
 如果你的目标只是日常网页和 AI，可以先从 100～150GB 档测试；如果是多设备家庭环境，则要优先确认设备数量限制，而不是只盯着价格。
 
@@ -153,7 +84,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ## 🤖 如果主要为了 AI 或流媒体
 
-从当前品牌资料来看，飞V 按地区写明了线路和适用内容，标注支持 ChatGPT、Claude、Midjourney、GitHub Copilot，以及 Netflix、Disney+、YouTube Premium、Abema、TVer 等；灵动云标注原生纯净 IP，支持 ChatGPT、Claude；隐形人对日本流媒体（Abema、TVer）和开发工具（GitHub Copilot、Hugging Face）写得比较清楚；Sogo 云则标注 AI 全支持，并列出 ChatGPT、Gemini、TikTok 以及 Netflix、Disney+、HBO、YouTube 等。微风网络和 Firefly 的官网没有明确写流媒体与 AI 解锁情况，主要用途是这两项的话建议先月付确认。
+从当前品牌资料来看，飞V 按地区写明了线路和适用内容，标注支持 ChatGPT、Claude、Midjourney、GitHub Copilot，以及 Netflix、Disney+、YouTube Premium、Abema、TVer 等；灵动云标注原生纯净 IP，支持 ChatGPT、Claude；隐形人对日本流媒体（Abema、TVer）和开发工具（GitHub Copilot、Hugging Face）写得比较清楚；Sogo 云则标注 AI 全支持，并列出 ChatGPT、Gemini、TikTok 以及 Netflix、Disney+、HBO、YouTube 等；Firefly 官网列出 Netflix、Disney+、YouTube、HBO Max、TikTok、Spotify 与 ChatGPT、Claude、Gemini。微风网络的官网没有明确写流媒体与 AI 解锁情况，主要用途是这两项的话建议先月付确认。
 
 这里需要特别注意：**“支持解锁”不代表每个节点、每个时间段、每个地区都一定得到相同结果。** 如果 AI 或流媒体是你的核心用途，优先选择可以先月付测试的方案，会比看到宣传后直接年付更稳妥。
 
@@ -190,7 +121,10 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - [新手教程：如何挑选机场节点](https://colasaiko.github.io/NewbieRead/05-%E6%96%B0%E6%89%8B%E6%80%BB%E7%BB%93.html#how-to-choose)：适合继续了解节点选择逻辑。
 - [本站服务商档案库](/tuijianjichang/brands/)：适合查看更多品牌信息。
 - [新手教程：如何使用国外AI工具](https://colasaiko.github.io/NewbieRead/04-IP%E4%BB%8B%E7%BB%8D.html#ai)：可以查看更多AI使用方法。
-- 好机场：网络知识库：适合继续阅读单品牌体验。
+- [好机场：网络知识库](/tuijianjichang/brands/)：适合继续阅读单品牌体验。
+- [2026 机场推荐专题](/tuijianjichang/how-to-choose-airport.html)：继续看更多品牌和专题整理。
+- [IPLC 和 IEPL 区别](/tuijianjichang/iplc-iepl-guide.html)：搞懂专线线路差在哪里，再决定要不要为专线多花钱。
+- [机场流量怎么选](/tuijianjichang/airport-traffic-guide.html)：100GB、300GB、500GB 分别适合什么用量，避免买多或买少。
 
 ## 📌 页面更新原则
 
@@ -239,15 +173,15 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 **💰 套餐价格参考：**
 
-|名称|流量|月付|季付|年付|
-|---|---|---|---|---|
-|清风 (Breeze)|100 GB|-|-|¥99.00|
-|乘风 (Riding)|200 GB|¥25.00|¥72.00|¥259.00|
-|破风 (Breaking)|500 GB|¥55.00|¥153.00|¥547.00|
-|御风 (Mastery)|1200 GB|¥125.00|¥342.00|¥1219.00|
-|微风 · 不限时|100 GB|（一次性 ¥100.00）|-|-|
-|信风 · 不限时|270 GB|（一次性 ¥200.00）|-|-|
-|长风 · 不限时|570 GB|（一次性 ¥370.00）|-|-|
+|名称|流量|月付|季付|半年|年付|一次性|
+|---|---|---|---|---|---|---|
+|清风 (Breeze)|60 GB|-|-|-|¥99.00|-|
+|乘风 (Riding)|200 GB|¥25.00|¥67.00|¥127.00|¥240.00|-|
+|破风 (Breaking)|500 GB|¥55.00|¥148.00|¥280.00|¥528.00|-|
+|御风 (Mastery)|1200 GB|¥125.00|¥337.00|¥637.00|¥998.00|-|
+|微风 · 不限时|100 GB|-|-|-|-|¥100.00|
+|信风 · 不限时|270 GB|-|-|-|-|¥200.00|
+|长风 · 不限时|570 GB|-|-|-|-|¥370.00|
 
 </div>
 
@@ -266,19 +200,23 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - Netflix / Hulu / HBO / Disney+ / DAZN 等主流流媒体完整解锁，4K 即点即播，支持 8K 资源
 - 全面支持 ChatGPT、Claude 等 AI 应用与开发工具访问
 - 采用高性能 Shadowsocks 协议，不限制同时在线设备数量
+- 另有年付轻量版（70GB / 月，¥109 / 年，约 ¥9 / 月）和 150GB 起的不限时流量包
 
 **💻 客户端下载：** [macOS 客户端](https://muguang9.oss-ap-southeast-1.aliyuncs.com/v1.0.0/muguangjiasu-3.0.0-macos.zip)
 
 **💰 套餐价格参考：**
 
-|名称|流量|月付|季付|半年|年付|
-|---|---|---|---|---|---|
-|暮光 · 年付轻量版|70GB|-|-|-|¥109.00|
-|暮光 · 基础版|120 GB|¥20.00|¥57.00|¥103.00|¥204.00|
-|暮光 · 标准版|240 GB|¥40.00|¥114.00|¥216.00|¥408.00|
-|暮光 · 旗舰版|700 GB|¥100.00|¥285.00|¥540.00|¥1020.00|
-|暮光 · 至尊版|1.5 TB|¥180.00|¥513.00|¥972.00|¥1836.00|
-|独享私人定制节点|500 GB|¥680.00|-|-|-|
+|名称|流量|月付|季付|半年|年付|一次性|
+|---|---|---|---|---|---|---|
+|暮光 · 年付轻量版|70 GB|-|-|-|¥109.00|-|
+|暮光 · 基础版|120 GB|¥20.00|¥57.00|¥103.00|¥204.00|-|
+|暮光 · 标准版|240 GB|¥40.00|¥114.00|¥216.00|¥408.00|-|
+|暮光 · 旗舰版|700 GB|¥100.00|¥285.00|¥540.00|¥1020.00|-|
+|暮光 · 至尊版|1.5 TB|¥180.00|¥513.00|¥972.00|¥1836.00|-|
+|暮光 · 不限时轻量包|150 GB|-|-|-|-|¥219.00|
+|暮光 · 不限时标准包|400 GB|-|-|-|-|¥529.00|
+|暮光 · 不限时大容量包|800 GB|-|-|-|-|¥959.00|
+|独享私人定制节点|500 GB|¥680.00|-|-|-|-|
 
 </div>
 
@@ -438,19 +376,22 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - 不限速
 - 不限设备数
 - IPLC专线网络
+- 50+ 节点，覆盖香港、台湾、日本、新加坡、美国
+- 解锁 Netflix、Disney+、YouTube、HBO Max、TikTok、Spotify，以及 ChatGPT、Claude、Gemini
+- 年付版每月 60GB，当月用完可加 ¥15 重置流量
 
 **💻 客户端下载：** [macOS 客户端](https://168downloads.oss-ap-northeast-2.aliyuncs.com/ff/firefly-3.0.0-macos.zip)
 
 **💰 套餐价格参考：**
 
-|名称|流量|月付|季付|年付|
-|---|---|---|---|---|
-|Firefly年付版|60 GB|-|-|¥96.00|
-|Firefly Lite|150 GB|¥25.00|¥67.00|¥240.00|
-|Firefly Plus|300 GB|¥ 45.00|¥121.00|¥ 432.00|
-|Firefly Blaze|600 GB|¥85.00|¥ 229.00|¥816.00|
-|Firefly Nova|1000 GB|¥ 150.00|¥ 400.00|¥1360.00|
-|Firefly不限时|100 GB|（一次性¥100.00）|-|-|
+|名称|流量|月付|季付|半年|年付|一次性|
+|---|---|---|---|---|---|---|
+|Firefly年付版|60 GB|-|-|-|¥96.00|-|
+|Firefly Lite|150 GB|¥25.00|¥67.00|¥127.00|¥240.00|-|
+|Firefly Plus|300 GB|¥45.00|¥121.00|¥229.00|¥432.00|-|
+|Firefly Blaze|600 GB|¥85.00|¥229.00|¥433.00|¥816.00|-|
+|Firefly Nova|1000 GB|¥150.00|¥400.00|¥750.00|¥1360.00|-|
+|Firefly不限时|100 GB|-|-|-|-|¥100.00|
 
 </div>
 
@@ -468,18 +409,24 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - 全IPLC专线，节点速率×1
 - 稳定全球Chatgpt，Gemini等AI支持
 - 4K流畅Netfilx/Hulu/Hbo/Disney+/HUGO等观影体验
+- 另有顶级 IEPL 专线（原生 IP）套餐，以及 100GB 起的永久不限时流量包
 
 **💻 客户端下载：** [macOS 客户端](https://168downloads.oss-ap-northeast-2.aliyuncs.com/wy/wuyoucloud-3.0.0-macos.zip)
 
 **💰 套餐价格参考：**
 
-|名称|流量|月付|季付|年付|
-|---|---|---|---|---|
-|MINI链接|40 GB|-|-|¥79.00|
-|舒心链接|100 GB|¥19.00|¥ 51.00|¥182.00|
-|省心链接|200 GB|¥ 33.00|¥89.00|¥316.00|
-|随心链接|500 GB|¥77.00|¥ 207.00|¥ 739.00|
-|忘忧链接|1000 GB|¥117.00|¥315.00|¥1123.00|
+|名称|流量|月付|季付|半年|年付|一次性|
+|---|---|---|---|---|---|---|
+|MINI·年付链接|50 GB|-|-|-|¥79.00|-|
+|舒心链接|160 GB|¥25.00|¥67.00|¥127.00|¥240.00|-|
+|省心链接|350 GB|¥45.00|¥121.00|¥229.00|¥432.00|-|
+|随心链接|600 GB|¥77.00|¥207.00|¥392.00|¥739.00|-|
+|忘忧链接|1000 GB|¥117.00|¥315.00|¥596.00|¥1123.00|-|
+|顶级专线·钻石无忧链接（IEPL）|150 GB|¥79.00|¥230.00|¥450.00|¥800.00|-|
+|100G 永久不限时|100 GB|-|-|-|-|¥98.00|
+|300G 永久不限时|300 GB|-|-|-|-|¥268.00|
+|1TB 永久不限时|1000 GB|-|-|-|-|¥680.00|
+|无忧专业级定制套餐|500 GB|¥680.00|-|-|-|-|
 
 </div>
 
@@ -499,27 +446,31 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - 智能负载｜晚高峰不限速｜4K 秒开
 - 全线路流媒体解锁
 - AI 全支持
-- 节点覆盖
-- 设备支持
+- 节点覆盖：香港×20、台湾×5、日本×10、新加坡×10、美国×10、马来西亚×2，以及英国、法国、德国、土耳其、泰国、巴西等
+- 原生 IP，支持 Netflix / Disney+ / ChatGPT / TikTok
 - Clash / Shadowrocket / v2rayN 等全兼容
-- 服务保障
 - 支持企业级定制线路
 - 网络带宽：全 IEPL专线，低延迟；单节点峰值至 2.5Gbps。
 - 设备并发：多设备不限量同时在线（电脑/手机/路由器）。
 - 路由策略：智能路由自动择优，稳定顺滑。
 - 长期优惠：年付 8 折｜两年付 7 折｜三年付 6 折。
+- 另有 120GB 起的不限时流量包，用完前不过期
 
 **💻 客户端下载：** [macOS 客户端](https://wzjc.sogoyunaff.cc/#/?code=JvxcPy2A)
 
 **💰 套餐价格参考：**
 
-|名称|流量|月付|季付|半年|年付|
-|---|---|---|---|---|---|
-|小包-年付版|60 GB|-|-|-|¥98.00|
-|小包-基础版|150 GB|¥25.00|¥65.00|¥120.00|¥250.00|
-|小包-优选版|350 GB|¥45.00|¥125.00|¥245.00|¥485.00|
-|小包-强化版|550 GB|¥80.00|¥230.00|¥450.00|¥850.00|
-|小包-顶配版|1.1TB|¥150.00|¥440.00|¥870.00|¥1750.00|
+|名称|流量|月付|季付|半年|年付|一次性|
+|---|---|---|---|---|---|---|
+|小包-年付版|60 GB|-|-|-|¥98.00|-|
+|基础版|150 GB|¥25.00|¥65.00|¥120.00|¥250.00|-|
+|优选版|350 GB|¥45.00|¥125.00|¥245.00|¥485.00|-|
+|强化版|550 GB|¥80.00|¥230.00|¥450.00|¥850.00|-|
+|顶配版|1.1 TB|¥150.00|¥440.00|¥870.00|¥1750.00|-|
+|基础餐不限时版|120 GB|-|-|-|-|¥120.00|
+|优选餐不限时版|250 GB|-|-|-|-|¥250.00|
+|强化餐不限时版|500 GB|-|-|-|-|¥450.00|
+|至尊餐不限时版|1 TB|-|-|-|-|¥850.00|
 
 </div>
 

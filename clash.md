@@ -42,6 +42,8 @@ description: 深入讲解 Clash 代理工具的基础配置、节点测试、URL
 
 <div class="ap-links" markdown="1">
 
+- **[Clash 系列教程整合](https://colasaiko.github.io/Clash-/)**
+  *主要内容：涵盖多版本内核、规则分流的高阶玩法。*
 - **[Loon 客户端基础进阶教程](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#loon)**
   *主要内容：iOS 端 Loon 如何参考 Clash 逻辑进行配置。*
 - **[Quantumult X 进阶教程](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#quantumult-x)**
@@ -50,6 +52,19 @@ description: 深入讲解 Clash 代理工具的基础配置、节点测试、URL
   *主要内容：Mac/iOS 顶级网络工具 Surge 的快速上手。*
 
 </div>
+
+### 这几款客户端怎么选？
+
+| 客户端 | 适用平台 | 收费 | 适合谁 |
+|---|---|---|---|
+| Clash Verge Rev | Windows / macOS / Linux | 免费开源 | 大多数电脑用户，规则分流和订阅管理都在图形界面完成 |
+| Shadowrocket（小火箭） | iPhone / iPad | 付费 | 只想快速连上、不想研究配置的 iOS 新手 |
+| Loon | iPhone / iPad | 付费 | 想要插件去广告、又不想一开始就用 Surge 的人 |
+| Quantumult X | iPhone / iPad | 付费 | 喜欢折腾分流规则、重写和脚本的进阶玩家 |
+| Surge | iPhone / iPad / Mac | 付费 | 需要高级网络调试、愿意花时间研究配置的用户 |
+
+**简单记法：** 电脑先用 Clash Verge Rev；iPhone 新手先用小火箭；想去广告再看 Loon 或圈X；需要调试网络再考虑 Surge。
+
 
 ---
 

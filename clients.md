@@ -32,8 +32,11 @@ Mac 用户通常追求界面的优雅与系统的低资源占用。
 
 - **[macOS 客户端推荐 / Clash Verge Rev](https://colasaiko.github.io/Clash-/01-Clash%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE.html)**
   *简介：目前 Mac 平台首选的开源免费 Clash 客户端，基于 Tauri 框架，性能极佳，支持最新的 Mihomo 内核，强烈推荐。*
-- **Mac 网络客户端怎么选？Clash Verge Rev、sing-box 和 Stash 对比**
+- **[Mac 网络客户端怎么选？Clash Verge Rev、sing-box 和 Stash 对比](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#clash-verge)**
   *简介：深度横向对比，帮助你了解不同代理内核（sing-box/Clash）的区别，适合进阶用户。*
+  - **Clash Verge Rev**：免费开源，使用 Mihomo 内核，订阅导入、规则分流都在图形界面完成，最适合大多数 Mac 用户。
+  - **sing-box**：新一代代理内核，支持的协议多、资源占用低；配置方式偏技术，适合愿意自己写配置的进阶用户。
+  - **Stash**：App Store 付费应用，兼容 Clash 配置格式，熟悉 Clash 的用户上手很快。
 
 </div>
 

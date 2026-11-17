@@ -46,6 +46,7 @@ description: 面向完全零基础小白的 VPN 代理工具入门，科普节�
 - **[什么是节点？](https://colasaiko.github.io/NewbieRead/01-%E6%96%B0%E6%89%8B%E5%BC%80%E5%A4%B4.html#node)** - 你购买的那个“服务器”到底长什么样。
 - **[什么是订阅链接？](https://colasaiko.github.io/NewbieRead/01-%E6%96%B0%E6%89%8B%E5%BC%80%E5%A4%B4.html#subscription)** - 教你如何把买到的节点一键导入软件。
 - **[什么是虚拟网卡 TUN？](https://colasaiko.github.io/NewbieRead/02-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%8B%E7%BB%8D.html#tun)** - 解决部分软件（如 Telegram / 游戏）不走代理的问题。
+- **[翻墙新手入门](https://colasaiko.github.io/NewbieRead/)** - 另一份非常详细的新手综合指南。
 - **[首次配置防坑指南](https://colasaiko.github.io/NewbieRead/05-%E6%96%B0%E6%89%8B%E6%80%BB%E7%BB%93.html#pitfalls)** - 帮助你避开 90% 新手都会犯的错。
 
 </div>
@@ -55,8 +56,21 @@ description: 面向完全零基础小白的 VPN 代理工具入门，科普节�
 <div class="ap-links" markdown="1">
 
 - **[订阅故障与网络急救手册](https://colasaiko.github.io/NewbieRead/06-FAQ%E5%92%8C%E5%A4%A7%E6%80%BB%E7%BB%93.html#troubleshooting)**
+- **[网络排障与测速](https://colasaiko.github.io/Clash-/03-%E5%AE%9E%E9%99%85%E6%B5%8B%E8%AF%95%E8%8A%82%E7%82%B9.html)**
+  *主要内容：用 Clash 自带的延迟测试和测速网站，判断是节点问题还是本地网络问题。*
+- **[节点质量怎么判断](https://colasaiko.github.io/Clash-/02-%E8%8A%82%E7%82%B9%E8%B4%A8%E9%87%8F%E5%88%A4%E6%96%AD.html)**
+  *主要内容：延迟、丢包、速度和稳定性分别代表什么，哪一项最影响体验。*
 
 </div>
+
+### 连不上时先做这 4 步
+
+1. **看总开关**：电脑确认“系统代理”已打开，手机确认状态栏有 VPN 图标。
+2. **看模式**：如果是“直连（Direct）”，改回“规则（Rule）”。
+3. **更新订阅**：先关掉代理，用手机流量在客户端里点一次“更新订阅”。
+4. **重置网络**：手机开关一次飞行模式，电脑重启一次客户端。
+
+做完还是不行，再按上面的急救手册逐项排查，或者带着截图联系服务商客服。
 
 ---
 
