@@ -59,7 +59,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 |---|---:|---:|---|---|
 | [微风网络](https://edp01.breezenetaff.com/#/?code=6ehSdfxw) | ¥25 | 200GB | `weifeng90` 9折 | IPLC 专线、不限设备、不限速，大流量单价低 |
 | [暮光加速](https://varnexa.twilightaff.com/#/?code=1eGqV85O) | ¥20 | 120GB | `mm88` 8折 | BGP 智能调度+专线出口、不限设备，流媒体与 ChatGPT/Claude 全支持 |
-| [飞V](https://varnexa.flyvaff.com/#/?code=6ae5FH9i) | ¥25 | 150GB | `fly20` 8折（新用户首单） | 全链路专线+原生 IP、港台日新 IEPL/IPLC、不限设备，AI 与流媒体全支持 |
+| [飞V](https://cola.flyvaff.com/#/register/?code=ZUwI0gXX) | ¥25 | 150GB | `fly20` 8折（新用户首单） | 全链路专线+原生 IP、港台日新 IEPL/IPLC、不限设备，AI 与流媒体全支持 |
 | [浪网 WaveNet](https://varnexa.wavenetaff.com/#/?code=pcFhy7Lb) | ¥30 | 150GB | `lw888` 6折（新用户） | 全节点 IEPL 专线、1x 倍率不限速，Netflix 与 ChatGPT/Claude 全支持 |
 | [灵动云](https://varnexa.lingdongaff.com/#/?code=TIMwZeIR) | ¥20 | 100GB | `ld888` 8折 | 纯专线+BGP 三网优化、晚高峰不限速，原生纯净 IP 稳定用 ChatGPT/Claude |
 | [隐形人](https://varnexa.invisibleaff.com/#/?code=8jyAXfu3) | ¥24 | 144GB | `yxr888` 8折 | IEPL 专线、不限设备，Abema/TVer 与 GitHub Copilot 全支持 |
@@ -224,7 +224,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 
 ### 飞V {#feiv}
 
-**👉 [前往 飞V 官网注册](https://varnexa.flyvaff.com/#/?code=6ae5FH9i)**
+**👉 [前往 飞V 官网注册](https://cola.flyvaff.com/#/register/?code=ZUwI0gXX)**
 
 **🎁 专属优惠：** `fly20（8折，新用户首单）`
 
@@ -237,7 +237,7 @@ IPLC、IEPL、BGP 优化、普通国际线路等会影响路由方式，但同�
 - 开发者之选：ChatGPT 4 / GitHub Copilot / Hugging Face 完整支持，低延迟API调用
 - 高性能协议，多国节点可选，不限制在线设备数，商务家庭优选
 
-**💻 客户端下载：** [前往官网下载](https://varnexa.flyvaff.com/#/?code=6ae5FH9i)（注册后可在官网内下载）
+**💻 客户端下载：** [前往官网下载](https://cola.flyvaff.com/#/register/?code=ZUwI0gXX)（注册后可在官网内下载）
 
 **💰 套餐价格参考：**
 

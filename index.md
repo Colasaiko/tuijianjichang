@@ -360,7 +360,7 @@ description: 整理稳定、便宜、年付、专线等不同需求的2026机场
         <div class="brand-name">暮光加速</div>
         <div class="brand-tag">流媒体与AI</div>
       </a>
-      <a href="https://varnexa.flyvaff.com/#/?code=6ae5FH9i" target="_blank" rel="noopener noreferrer" class="brand-item">
+      <a href="https://cola.flyvaff.com/#/register/?code=ZUwI0gXX" target="_blank" rel="noopener noreferrer" class="brand-item">
         <div class="brand-name">飞V</div>
         <div class="brand-tag">IEPL/IPLC专线</div>
       </a>
